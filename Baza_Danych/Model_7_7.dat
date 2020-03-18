@@ -1,0 +1,1596 @@
+1. Sieæ Grawitacyjna
+ 1.1. Otoczenie Projektowe.   
+  1.1.1. Dane pocz¹tkowe.
+   1.1.1.1. Dane. 
+    1.1.1.1.1. Hydrologiczne.
+    1.1.1.1.2. Hydrogeologiczne. 
+    1.1.1.1.3. Hydrograficzne odbiornika œcieków. 
+   1.1.1.2. Plany. 
+    1.1.1.2.1. Sytuacyjno-wysokoœciowy uk³ad terenów kanalizacyjnych. 
+    1.1.1.2.2. Uk³ad melioracyjny. 
+     1.1.1.2.2.1. Kana³y melioracyjne zbiorcze. 
+     1.1.1.2.2.2. Ruroci¹gi melioracyjne szczegó³owe. 
+   1.1.1.3. Zakres. 
+    1.1.1.3.1. Dane okreœlaj¹ce zu¿ycie wody. 
+     1.1.1.3.1.1. Dane dla gospodarstw z produkcj¹ zwierzêc¹.   
+     1.1.1.3.1.2. Dane dla gospodarstw bez produkcji zwierzêcej.  
+    1.1.1.3.2. Wielkoœæ obszaru odprowadzania œcieków. 
+    1.1.1.3.3. Mo¿liwoœci odbioru œcieków. 
+  1.1.2. Rodzaje œcieków.	
+   1.1.2.1. Bytowo - gospodarcze (fekalia).  
+   1.1.2.2. Opadowe .
+   1.1.2.3. Przemys³owe.
+  1.1.3. Metody.
+   1.1.3.1. Grawitacyjna.
+   1.1.3.2. Ciœnieniowa.
+    1.1.3.2.1. Niskociœnieniowa.
+    1.1.3.2.2. Podciœnieniowa.
+    1.1.3.2.3. Wysokociœnieniowa. 
+   1.1.3.3. Ma³oœrednicowa. 
+   1.1.3.4. Mieszana. 
+    1.1.3.4.1. Grawitacyjna w terenach skalistych. 
+    1.1.3.4.2. Ciœnieniowa. 
+     1.1.3.4.2.1. Niskociœnieniow¹. 
+     1.1.3.4.2.2. Podciœnieniow¹. 
+     1.1.3.4.2.3. Wysokociœnieniow¹. 
+   1.1.3.5. Oczyszczalnia przydomowe. 
+  1.1.4.  Rodzaje sieci kanalizacyjnej.	
+   1.1.4.1. Deszczowa. 
+   1.1.4.2. Bytowo-przemys³owa. 
+   1.1.4.3. Ogólnosp³awna. 
+  1.1.5. Sposób wykreœlenia sieci.	
+   1.1.5.1. Studnia rewizyjna. 
+   1.1.5.2. Studnie zaworowe.
+   1.1.5.3. Odpowietrzniki. 
+ 1.2. Otoczenie Strategiczne.
+  1.2.1. Zagro¿enia najwy¿szego rzêdu. 	
+   1.2.1.1. Zagro¿enie utraty ¿ycia. 
+   1.2.1.2. Zagro¿enie utraty zdrowia. 
+   1.2.1.3. Zagro¿enie utraty maj¹tku.
+  1.2.2. Zagro¿enia wy¿szego rzêdu.	
+   1.2.2.1. Protesty spo³eczne. 
+   1.2.2.2. Zagro¿enia terrorystyczne. 
+   1.2.2.3. Mo¿liwoœæ kolizji z inwestycj¹ wy¿szego rzêdu. 
+  1.2.3. Zagro¿enia chorobami zakaŸnymi. 	
+   1.2.3.1. Epidemia. 
+   1.2.3.2. Epifitozy. 
+   1.2.3.3. Epizootie. 
+  1.2.4. Zagro¿enia spowodowane czynnikami ludzkimi.  
+   1.2.4.1. Katastrofy budowlane.
+   1.2.4.2. Katastrofy drogowo – kolejowe.  
+   1.2.4.3. Osuwiska.
+   1.2.4.4. Ska¿enia chemiczno – ekologiczne.  
+   1.2.4.5. Ska¿enia radiacyjne. 
+  1.2.5. Zagro¿enia pogodowe. 	
+   1.2.5.1.  Silne mrozy i intensywne opady œniegu. 
+   1.2.5.2. Powodzie. 
+   1.2.5.3. Po¿ary. 
+   1.2.5.4. Susze i upa³y.
+   1.2.5.5. Huraganowe wiatry / tr¹by powietrzne.
+  1.2.6. Zagro¿enia energetyczne.	
+   1.2.6.1. Zak³ócenia dostaw energii cieplnej.
+   1.2.6.2. Zak³ócenia dostaw energii elektrycznej. 
+   1.2.6.3. Zak³ócenia dostaw paliw. 
+   1.2.6.4. Zak³ócenia dostaw gazu. 
+   1.2.6.5. Zak³ócenia magnetyczne.
+  1.2.7. Zagro¿enia inwestycyjne.	
+   1.2.7.1. Brak zasobów surowcowych. 
+   1.2.7.2. Brak zasobów ludzkich.
+   1.2.7.3. Brak narzêdzi. 
+   1.2.7.4. Brak maszyn.
+   1.2.7.5. Zbyt ma³o czasu na wykonanie inwestycji. 
+ 1.3. Otoczenie Techniczne. 
+  1.3.1.  Spadki terenu. 	
+   1.3.1.1. Nizinne ze spadkiem (s = 0,00 do 5‰). 
+   1.3.1.2. Pofa³dowane ze spadkiem (s = 5‰ do 3%). 
+   1.3.1.3. Podgórskie ze spadkiem (s = 3% do 12%). 
+   1.3.1.4. Podgórskie ze spadkiem (s > 12%). 
+   1.3.1.5. Dodatkowym kryterium jest wektor spadku. 
+  1.3.2. Lokalizacja odbiornika œcieków. 	
+   1.3.2.1. W centrum gminy. 
+   1.3.2.2. Na obrze¿u gminy. 
+   1.3.2.3. Odprowadzenie do oczyszczalni poza terenem gminy.
+  1.3.3. Poziom wody gruntowej. 	
+   1.3.3.1. Poziom 1 -  (h = 0 do 0,5 m). 
+   1.3.3.2. Poziom 2 - ( 0.5m < h < 1,5 m).
+   1.3.3.3. Poziom 3 - (1,5m < h < 3,0 m).
+   1.3.3.4. Poziom 4 - (3 < h >5 m). 
+   1.3.3.5. Poziom 5 - (h > 5 m).
+  1.3.4. Charakter zabudowy. 	
+   1.3.4.1. Zwarta. 
+   1.3.4.2. Œrednio zwarta. 
+   1.3.4.3. Rozproszona.
+  1.3.5. Drogi. 	
+   1.3.5.1. Drogi gminne. 
+   1.3.5.2. Drogi powiatowe. 
+   1.3.5.3. Drogi wojewódzkie. 
+   1.3.5.4. Drogi krajowe i  szybkiego ruchu. 
+   1.3.5.5. Autostrady.
+  1.3.6.  Infrastruktura energetyczna. 	
+   1.3.6.1. Dostêpnoœæ zasilania z jednej sieci.
+   1.3.6.2. Dostêpnoœæ zasilania z dwóch sieci.
+   1.3.6.3. 1_sieæ nadziemna. 
+   1.3.6.4. 2_sieci nadziemne.
+   1.3.6.5. 3_sieci nadziemne. 
+  1.3.7. Infrastruktura podziemna. 	
+   1.3.7.1. 1_sieæ.
+   1.3.7.2. 2_sieci.
+   1.3.7.3. 3_sieci.
+   1.3.7.4. 4_sieci.
+   1.3.7.5. 5_sieci i wiêcej. 
+ 1.4. Otoczenie Ekonomiczne. 
+  1.4.1. Mo¿liwoœci finansowe gminy.	
+   1.4.1.1. W granicach do 10% kosztów inwestycji.
+   1.4.1.2. W granicach 10% do 20% kosztów inwestycji.
+   1.4.1.3. W granicach 20% do 40% kosztów inwestycji. 
+   1.4.1.4. Do 60% kosztów inwestycji.
+   1.4.1.5. Powy¿ej 60% kosztów inwestycji. 
+  1.4.2. Mo¿liwoœci dofinansowania z funduszy zewnêtrznych.	
+   1.4.2.1. W granicach do 20% kosztów inwestycyjnych.
+   1.4.2.2. W granicach 20 do 50% kosztów inwestycyjnych. 
+   1.4.2.3. Powy¿ej 50% kosztów inwestycyjnych. 
+  1.4.3. Koszty inwestycyjne wybudowania kanalizacji. 	
+   1.4.3.1. Opis sieci. 
+   1.4.3.2. Przy³¹cza. 
+   1.4.3.3. Kolektory. 
+   1.4.3.4. Liczba studni. 
+   1.4.3.5. £¹czna d³ugoœæ kanalizacji. 
+  1.4.4. Koszty eksploatacyjne odprowadzonych œcieków. 	
+   1.4.4.1. Koszty ogólnozak³adowe. 
+   1.4.4.2. Koszty obrotów wewnêtrznych.  
+   1.4.4.3. Koszty  zewnêtrzne. 
+   1.4.4.4. Podatki. 
+    1.4.4.4.1. Od towarów i us³ug – VAT. 
+    1.4.4.4.2. Podatek dochodowy.  
+    1.4.4.4.3. Amortyzacja.  
+   1.4.4.5. Pracownicy. 
+    1.4.4.5.1. Wynagrodzenie. 
+    1.4.4.5.2. Podró¿e s³u¿bowe VAT. 
+    1.4.4.5.3. Œwiadczenia na rzecz pracownika. 
+   1.4.4.6. Us³ugi zewnêtrzne. 
+   1.4.4.7. Inne. 
+  1.4.5. Przychody z wybudowania kanalizacji. 	
+   1.4.5.1. Za odprowadzanie œcieków na 1 mieszkañca. 
+   1.4.5.2. Us³ugi remontowe. 
+   1.4.5.3. Us³ugi reklamowe i inne.
+ 1.5. Otoczenie Œrodowiskowe. 
+  1.5.1. Zanieczyszczenia wód gruntowych.	
+   1.5.1.1. Brak. 
+   1.5.1.2. Kwasy humusowe i zwi¹zki chemiczne zwiêkszaj¹ce kwasowoœæ gruntu do (pH = 5,0). 
+   1.5.1.3. Zwi¹zki chemiczne silnie koroduj¹ce  zwiêkszaj¹ce kwasowoœæ gruntu (3,5 < pH < 5,0).
+  1.5.2. Obszary chronione w gminie. 	
+   1.5.2.1. Parki narodowe, (od 0 do 10%).  
+   1.5.2.2. Rezerwaty  (od 10% do 30%). 
+   1.5.2.3. Obszary natura 2000 (od 30% do 60%).
+   1.5.2.4. Parki krajobrazowe (od 0% do 10%).
+   1.5.2.5. Obszary chronionego krajobrazu (od 10% do 30%).
+  1.5.3. Mo¿liwoœæ emisji odorów i gazów szkodliwych dla zdrowia. 	
+   1.5.3.1. W odleg³oœciach od siedzib mieszkañców( L < 5m). 
+   1.5.3.2. W odleg³oœciach od siedzib mieszkañców (5m < L < 15 m). 
+   1.5.3.3. W odleg³oœciach od siedzib mieszkañców (15m < L < 30 m). 
+   1.5.3.4. W odleg³oœciach od siedzib mieszkañców (30m < L < 50m).
+   1.5.3.5. W odleg³oœciach od siedzib mieszkañców (L > 50m). 
+  1.5.4. Typ gruntów. 	
+   1.5.4.1. Skalisty. 
+   1.5.4.2.  Bardzo spoisty, zwarty. 
+   1.5.4.3.  Inne grunty noœne.
+  1.5.5. Obszary chronione na terenie gminy. 
+   1.5.5.1. Obszary chronione na terenie gminy  ujêcia wody podziemnej. 
+   1.5.5.2. Obszar przylegaj¹cy do ujêcia z mo¿liwoœci¹ przep³ywów podziemnych.
+   1.5.5.3. Obszary chronione na terenie gminy ujêcia wody powierzchniowe. 
+ 1.6. Otoczenie Spo³eczne. 
+  1.6.1. Uzgodnienia z w³adzami gmin. 	
+   1.6.1.1. Akceptacja bez uwag.
+   1.6.1.2. Akceptacja z ma³o istotnymi uwagami.
+   1.6.1.3. Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji.  
+   1.6.1.4. Brak akceptacji. 
+   1.6.1.5. Podjêcie uchwa³y. 
+  1.6.2. Uzgodnienia z mieszkañcami. 	
+   1.6.2.1.  Akceptacja bez uwag.
+   1.6.2.2.  Akceptacja z ma³o istotnymi uwagami. 
+   1.6.2.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   1.6.2.4.  Brak akceptacji. 
+   1.6.2.5. Podjêcie uchwa³y. 
+  1.6.3.  Uzgodnienia z w³adzami powiatowymi i wojewódzkimi.	
+   1.6.3.1.  Akceptacja bez uwag.
+   1.6.3.2.  Akceptacja z ma³o istotnymi uwagami.
+   1.6.3.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   1.6.3.4.  Brak akceptacji. 
+   1.6.3.5.  Podjêcie uchwa³y.
+  1.6.4. Uzgodnienia z s¹siednimi gminami. 	
+   1.6.4.1.  Akceptacja bez uwag.
+   1.6.4.2.. Akceptacja z ma³o istotnymi uwagami.
+   1.6.4.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   1.6.4.4. Brak akceptacji.
+   1.6.4.5. Podjêcie uchwa³y. 
+  1.6.5. Struktura przestrzenna i podzia³ gminy.	
+   1.6.5.1. Bez podzia³u.
+   1.6.5.2. 1_element podzia³u. 
+   1.6.5.3. 2_element podzia³u. 
+   1.6.5.4. 3_element podzia³u. 
+   1.6.5.5. 4 i wiêcej elementów podzia³u. 
+ 1.7. Otoczenie Biznesowe 
+  1.7.1. Rozwoju wsi.	
+   1.7.1.1. Plan Urz¹dzeniowo Rolny (PUR). 
+   1.7.1.2. Potencja³ zasobów ludzkich. 
+   1.7.1.3. Potencja³ zasobów ziem rolnych.
+   1.7.1.4. Potencja³ zasobów kopalnianych. 
+   1.7.1.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  1.7.2. Rozwoju gminy.	
+   1.7.2.1. Studium wykonalnoœci lub warunki zabudowy gminy.
+   1.7.2.2. Potencja³ zasobów ludzkich. 
+   1.7.2.3. Potencja³ zasobów gruntowych.
+   1.7.2.4. Potencja³ zasobów infrastrukturalnych. 
+   1.7.2.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  1.7.3. Rozwoju miasta. 	
+   1.7.3.1. Plan zagospodarowania lub warunki zabudowy.
+   1.7.3.2. Potencja³ zasobów infrastrukturalno – gruntowych.  
+   1.7.3.3. Zainteresowanie inwestycyjne przedsiêbiorców.
+2. Sieæ Ma³oœrednicowa
+ 2.1. Otoczenie Projektowe.   
+  2.1.1. Dane pocz¹tkowe.
+   2.1.1.1. Dane. 
+    2.1.1.1.1. Hydrologiczne.
+    2.1.1.1.2. Hydrogeologiczne. 
+    2.1.1.1.3. Hydrograficzne odbiornika œcieków. 
+   2.1.1.2. Plany. 
+    2.1.1.2.1. Sytuacyjno-wysokoœciowy uk³ad terenów kanalizacyjnych. 
+    2.1.1.2.2. Uk³ad melioracyjny. 
+     2.1.1.2.2.1. Kana³y melioracyjne zbiorcze. 
+     2.1.1.2.2.2. Ruroci¹gi melioracyjne szczegó³owe. 
+   2.1.1.3. Zakres. 
+    2.1.1.3.1. Dane okreœlaj¹ce zu¿ycie wody. 
+     2.1.1.3.1.1. Dane dla gospodarstw z produkcj¹ zwierzêc¹.   
+     2.1.1.3.1.2. Dane dla gospodarstw bez produkcji zwierzêcej.  
+    2.1.1.3.2. Wielkoœæ obszaru odprowadzania œcieków. 
+    2.1.1.3.3. Mo¿liwoœci odbioru œcieków. 
+  2.1.2. Rodzaje œcieków.	
+   2.1.2.1. Bytowo - gospodarcze (fekalia).  
+   2.1.2.2. Opadowe .
+   2.1.2.3. Przemys³owe.
+  2.1.3. Metody.
+   2.1.3.1. Grawitacyjna.
+   2.1.3.2. Ciœnieniowa.
+    2.1.3.2.1. Niskociœnieniowa.
+    2.1.3.2.2. Podciœnieniowa.
+    2.1.3.2.3. Wysokociœnieniowa. 
+   2.1.3.3. Ma³oœrednicowa. 
+   2.1.3.4. Mieszana. 
+    2.1.3.4.1. Grawitacyjna w terenach skalistych. 
+    2.1.3.4.2. Ciœnieniowa. 
+     2.1.3.4.2.1. Niskociœnieniow¹. 
+     2.1.3.4.2.2. Podciœnieniow¹. 
+     2.1.3.4.2.3. Wysokociœnieniow¹. 
+   2.1.3.5. Oczyszczalnia przydomowe. 
+  2.1.4.  Rodzaje sieci kanalizacyjnej.	
+   2.1.4.1. Deszczowa. 
+   2.1.4.2. Bytowo-przemys³owa. 
+   2.1.4.3. Ogólnosp³awna. 
+  2.1.5. Sposób wykreœlenia sieci.	
+   2.1.5.1. Studnia rewizyjna. 
+   2.1.5.2. Studnie zaworowe.
+   2.1.5.3. Odpowietrzniki. 
+ 2.2. Otoczenie Strategiczne.
+  2.2.1. Zagro¿enia najwy¿szego rzêdu. 	
+   2.2.1.1. Zagro¿enie utraty ¿ycia. 
+   2.2.1.2. Zagro¿enie utraty zdrowia. 
+   2.2.1.3. Zagro¿enie utraty maj¹tku.
+  2.2.2. Zagro¿enia wy¿szego rzêdu.	
+   2.2.2.1. Protesty spo³eczne. 
+   2.2.2.2. Zagro¿enia terrorystyczne. 
+   2.2.2.3. Mo¿liwoœæ kolizji z inwestycj¹ wy¿szego rzêdu. 
+  2.2.3. Zagro¿enia chorobami zakaŸnymi. 	
+   2.2.3.1. Epidemia. 
+   2.2.3.2. Epifitozy. 
+   2.2.3.3. Epizootie. 
+  2.2.4. Zagro¿enia spowodowane czynnikami ludzkimi.  
+   2.2.4.1. Katastrofy budowlane.
+   2.2.4.2. Katastrofy drogowo – kolejowe.  
+   2.2.4.3. Osuwiska.
+   2.2.4.4. Ska¿enia chemiczno – ekologiczne.  
+   2.2.4.5. Ska¿enia radiacyjne. 
+  2.2.5. Zagro¿enia pogodowe. 	
+   2.2.5.1.  Silne mrozy i intensywne opady œniegu. 
+   2.2.5.2. Powodzie. 
+   2.2.5.3. Po¿ary. 
+   2.2.5.4. Susze i upa³y.
+   2.2.5.5. Huraganowe wiatry / tr¹by powietrzne.
+  2.2.6. Zagro¿enia energetyczne.	
+   2.2.6.1. Zak³ócenia dostaw energii cieplnej.
+   2.2.6.2. Zak³ócenia dostaw energii elektrycznej. 
+   2.2.6.3. Zak³ócenia dostaw paliw. 
+   2.2.6.4. Zak³ócenia dostaw gazu. 
+   2.2.6.5. Zak³ócenia magnetyczne.
+  2.2.7. Zagro¿enia inwestycyjne.	
+   2.2.7.1. Brak zasobów surowcowych. 
+   2.2.7.2. Brak zasobów ludzkich.
+   2.2.7.3. Brak narzêdzi. 
+   2.2.7.4. Brak maszyn.
+   2.2.7.5. Zbyt ma³o czasu na wykonanie inwestycji. 
+ 2.3. Otoczenie Techniczne. 
+  2.3.1.  Spadki terenu. 	
+   2.3.1.1. Nizinne ze spadkiem (s = 0,00 do 5‰). 
+   2.3.1.2. Pofa³dowane ze spadkiem (s = 5‰ do 3%). 
+   2.3.1.3. Podgórskie ze spadkiem (s = 3% do 12%). 
+   2.3.1.4. Podgórskie ze spadkiem (s > 12%). 
+   2.3.1.5. Dodatkowym kryterium jest wektor spadku. 
+  2.3.2. Lokalizacja odbiornika œcieków. 	
+   2.3.2.1. W centrum gminy. 
+   2.3.2.2. Na obrze¿u gminy. 
+   2.3.2.3. Odprowadzenie do oczyszczalni poza terenem gminy.
+  2.3.3. Poziom wody gruntowej. 	
+   2.3.3.1. Poziom 1 -  (h = 0 do 0,5 m). 
+   2.3.3.2. Poziom 2 - ( 0.5m < h < 1,5 m).
+   2.3.3.3. Poziom 3 - (1,5m < h < 3,0 m).
+   2.3.3.4. Poziom 4 - (3 < h >5 m). 
+   2.3.3.5. Poziom 5 - (h > 5 m).
+  2.3.4. Charakter zabudowy. 	
+   2.3.4.1. Zwarta. 
+   2.3.4.2. Œrednio zwarta. 
+   2.3.4.3. Rozproszona.
+  2.3.5. Drogi. 	
+   2.3.5.1. Drogi gminne. 
+   2.3.5.2. Drogi powiatowe. 
+   2.3.5.3. Drogi wojewódzkie. 
+   2.3.5.4. Drogi krajowe i  szybkiego ruchu. 
+   2.3.5.5. Autostrady.
+  2.3.6.  Infrastruktura energetyczna. 	
+   2.3.6.1. Dostêpnoœæ zasilania z jednej sieci.
+   2.3.6.2. Dostêpnoœæ zasilania z dwóch sieci.
+   2.3.6.3. 1_sieæ nadziemna. 
+   2.3.6.4. 2_sieci nadziemne.
+   2.3.6.5. 3_sieci nadziemne. 
+  2.3.7. Infrastruktura podziemna. 	
+   2.3.7.1. 1_sieæ.
+   2.3.7.2. 2_sieci.
+   2.3.7.3. 3_sieci.
+   2.3.7.4. 4_sieci.
+   2.3.7.5. 5_sieci i wiêcej. 
+ 2.4. Otoczenie Ekonomiczne. 
+  2.4.1. Mo¿liwoœci finansowe gminy.	
+   2.4.1.1. W granicach do 10% kosztów inwestycji.
+   2.4.1.2. W granicach 10% do 20% kosztów inwestycji.
+   2.4.1.3. W granicach 20% do 40% kosztów inwestycji. 
+   2.4.1.4. Do 60% kosztów inwestycji.
+   2.4.1.5. Powy¿ej 60% kosztów inwestycji. 
+  2.4.2. Mo¿liwoœci dofinansowania z funduszy zewnêtrznych.	
+   2.4.2.1. W granicach do 20% kosztów inwestycyjnych.
+   2.4.2.2. W granicach 20 do 50% kosztów inwestycyjnych. 
+   2.4.2.3. Powy¿ej 50% kosztów inwestycyjnych. 
+  2.4.3. Koszty inwestycyjne wybudowania kanalizacji. 	
+   2.4.3.1. Opis sieci. 
+   2.4.3.2. Przy³¹cza. 
+   2.4.3.3. Kolektory. 
+   2.4.3.4. Liczba studni. 
+   2.4.3.5. £¹czna d³ugoœæ kanalizacji. 
+  2.4.4. Koszty eksploatacyjne odprowadzonych œcieków. 	
+   2.4.4.1. Koszty ogólnozak³adowe. 
+   2.4.4.2. Koszty obrotów wewnêtrznych.  
+   2.4.4.3. Koszty  zewnêtrzne. 
+   2.4.4.4. Podatki. 
+    2.4.4.4.1. Od towarów i us³ug – VAT. 
+    2.4.4.4.2. Podatek dochodowy.  
+    2.4.4.4.3. Amortyzacja.  
+   2.4.4.5. Pracownicy. 
+    2.4.4.5.1. Wynagrodzenie. 
+    2.4.4.5.2. Podró¿e s³u¿bowe VAT. 
+    2.4.4.5.3. Œwiadczenia na rzecz pracownika. 
+   2.4.4.6. Us³ugi zewnêtrzne. 
+   2.4.4.7. Inne. 
+  2.4.5. Przychody z wybudowania kanalizacji. 	
+   2.4.5.1. Za odprowadzanie œcieków na 1 mieszkañca. 
+   2.4.5.2. Us³ugi remontowe. 
+   2.4.5.3. Us³ugi reklamowe i inne.
+ 2.5. Otoczenie Œrodowiskowe. 
+  2.5.1. Zanieczyszczenia wód gruntowych.	
+   2.5.1.1. Brak. 
+   2.5.1.2. Kwasy humusowe i zwi¹zki chemiczne zwiêkszaj¹ce kwasowoœæ gruntu do (pH = 5,0). 
+   2.5.1.3. Zwi¹zki chemiczne silnie koroduj¹ce  zwiêkszaj¹ce kwasowoœæ gruntu (3,5 < pH < 5,0).
+  2.5.2. Obszary chronione w gminie. 	
+   2.5.2.1. Parki narodowe, (od 0 do 10%).  
+   2.5.2.2. Rezerwaty  (od 10% do 30%). 
+   2.5.2.3. Obszary natura 2000 (od 30% do 60%).
+   2.5.2.4. Parki krajobrazowe (od 0% do 10%).
+   2.5.2.5. Obszary chronionego krajobrazu (od 10% do 30%).
+  2.5.3. Mo¿liwoœæ emisji odorów i gazów szkodliwych dla zdrowia. 	
+   2.5.3.1. W odleg³oœciach od siedzib mieszkañców( L < 5m). 
+   2.5.3.2. W odleg³oœciach od siedzib mieszkañców (5m < L < 15 m). 
+   2.5.3.3. W odleg³oœciach od siedzib mieszkañców (15m < L < 30 m). 
+   2.5.3.4. W odleg³oœciach od siedzib mieszkañców (30m < L < 50m).
+   2.5.3.5. W odleg³oœciach od siedzib mieszkañców (L > 50m). 
+  2.5.4. Typ gruntów. 	
+   2.5.4.1. Skalisty. 
+   2.5.4.2.  Bardzo spoisty, zwarty. 
+   2.5.4.3.  Inne grunty noœne.
+  2.5.5. Obszary chronione na terenie gminy. 
+   2.5.5.1. Obszary chronione na terenie gminy  ujêcia wody podziemnej. 
+   2.5.5.2. Obszar przylegaj¹cy do ujêcia z mo¿liwoœci¹ przep³ywów podziemnych.
+   2.5.5.3. Obszary chronione na terenie gminy ujêcia wody powierzchniowe. 
+ 2.6. Otoczenie Spo³eczne. 
+  2.6.1. Uzgodnienia z w³adzami gmin. 	
+   2.6.1.1. Akceptacja bez uwag.
+   2.6.1.2. Akceptacja z ma³o istotnymi uwagami.
+   2.6.1.3. Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji.  
+   2.6.1.4. Brak akceptacji. 
+   2.6.1.5. Podjêcie uchwa³y. 
+  2.6.2. Uzgodnienia z mieszkañcami. 	
+   2.6.2.1.  Akceptacja bez uwag.
+   2.6.2.2.  Akceptacja z ma³o istotnymi uwagami. 
+   2.6.2.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   2.6.2.4.  Brak akceptacji. 
+   2.6.2.5. Podjêcie uchwa³y. 
+  2.6.3.  Uzgodnienia z w³adzami powiatowymi i wojewódzkimi.	
+   2.6.3.1.  Akceptacja bez uwag.
+   2.6.3.2.  Akceptacja z ma³o istotnymi uwagami.
+   2.6.3.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   2.6.3.4.  Brak akceptacji. 
+   2.6.3.5.  Podjêcie uchwa³y.
+  2.6.4. Uzgodnienia z s¹siednimi gminami. 	
+   2.6.4.1.  Akceptacja bez uwag.
+   2.6.4.2.. Akceptacja z ma³o istotnymi uwagami.
+   2.6.4.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   2.6.4.4. Brak akceptacji.
+   2.6.4.5. Podjêcie uchwa³y. 
+  2.6.5. Struktura przestrzenna i podzia³ gminy.	
+   2.6.5.1. Bez podzia³u.
+   2.6.5.2. 1_element podzia³u. 
+   2.6.5.3. 2_element podzia³u. 
+   2.6.5.4. 3_element podzia³u. 
+   2.6.5.5. 4 i wiêcej elementów podzia³u. 
+ 2.7. Otoczenie Biznesowe 
+  2.7.1. Rozwoju wsi.	
+   2.7.1.1. Plan Urz¹dzeniowo Rolny (PUR). 
+   2.7.1.2. Potencja³ zasobów ludzkich. 
+   2.7.1.3. Potencja³ zasobów ziem rolnych.
+   2.7.1.4. Potencja³ zasobów kopalnianych. 
+   2.7.1.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  2.7.2. Rozwoju gminy.	
+   2.7.2.1. Studium wykonalnoœci lub warunki zabudowy gminy.
+   2.7.2.2. Potencja³ zasobów ludzkich. 
+   2.7.2.3. Potencja³ zasobów gruntowych.
+   2.7.2.4. Potencja³ zasobów infrastrukturalnych. 
+   2.7.2.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  2.7.3. Rozwoju miasta. 	
+   2.7.3.1. Plan zagospodarowania lub warunki zabudowy.
+   2.7.3.2. Potencja³ zasobów infrastrukturalno – gruntowych.  
+   2.7.3.3. Zainteresowanie inwestycyjne przedsiêbiorców.
+3. Sieæ Podciœnieniowa
+ 3.1. Otoczenie Projektowe.   
+  3.1.1. Dane pocz¹tkowe.
+   3.1.1.1. Dane. 
+    3.1.1.1.1. Hydrologiczne.
+    3.1.1.1.2. Hydrogeologiczne. 
+    3.1.1.1.3. Hydrograficzne odbiornika œcieków. 
+   3.1.1.2. Plany. 
+    3.1.1.2.1. Sytuacyjno-wysokoœciowy uk³ad terenów kanalizacyjnych. 
+    3.1.1.2.2. Uk³ad melioracyjny. 
+     3.1.1.2.2.1. Kana³y melioracyjne zbiorcze. 
+     3.1.1.2.2.2. Ruroci¹gi melioracyjne szczegó³owe. 
+   3.1.1.3. Zakres. 
+    3.1.1.3.1. Dane okreœlaj¹ce zu¿ycie wody. 
+     3.1.1.3.1.1. Dane dla gospodarstw z produkcj¹ zwierzêc¹.   
+     3.1.1.3.1.2. Dane dla gospodarstw bez produkcji zwierzêcej.  
+    3.1.1.3.2. Wielkoœæ obszaru odprowadzania œcieków. 
+    3.1.1.3.3. Mo¿liwoœci odbioru œcieków. 
+  3.1.2. Rodzaje œcieków.	
+   3.1.2.1. Bytowo - gospodarcze (fekalia).  
+   3.1.2.2. Opadowe .
+   3.1.2.3. Przemys³owe.
+  3.1.3. Metody.
+   3.1.3.1. Grawitacyjna.
+   3.1.3.2. Ciœnieniowa.
+    3.1.3.2.1. Niskociœnieniowa.
+    3.1.3.2.2. Podciœnieniowa.
+    3.1.3.2.3. Wysokociœnieniowa. 
+   3.1.3.3. Ma³oœrednicowa. 
+   3.1.3.4. Mieszana. 
+    3.1.3.4.1. Grawitacyjna w terenach skalistych. 
+    3.1.3.4.2. Ciœnieniowa. 
+     3.1.3.4.2.1. Niskociœnieniow¹. 
+     3.1.3.4.2.2. Podciœnieniow¹. 
+     3.1.3.4.2.3. Wysokociœnieniow¹. 
+   3.1.3.5. Oczyszczalnia przydomowe. 
+  3.1.4.  Rodzaje sieci kanalizacyjnej.	
+   3.1.4.1. Deszczowa. 
+   3.1.4.2. Bytowo-przemys³owa. 
+   3.1.4.3. Ogólnosp³awna. 
+  3.1.5. Sposób wykreœlenia sieci.	
+   3.1.5.1. Studnia rewizyjna. 
+   3.1.5.2. Studnie zaworowe.
+   3.1.5.3. Odpowietrzniki. 
+ 3.2. Otoczenie Strategiczne.
+  3.2.1. Zagro¿enia najwy¿szego rzêdu. 	
+   3.2.1.1. Zagro¿enie utraty ¿ycia. 
+   3.2.1.2. Zagro¿enie utraty zdrowia. 
+   3.2.1.3. Zagro¿enie utraty maj¹tku.
+  3.2.2. Zagro¿enia wy¿szego rzêdu.	
+   3.2.2.1. Protesty spo³eczne. 
+   3.2.2.2. Zagro¿enia terrorystyczne. 
+   3.2.2.3. Mo¿liwoœæ kolizji z inwestycj¹ wy¿szego rzêdu. 
+  3.2.3. Zagro¿enia chorobami zakaŸnymi. 	
+   3.2.3.1. Epidemia. 
+   3.2.3.2. Epifitozy. 
+   3.2.3.3. Epizootie. 
+  3.2.4. Zagro¿enia spowodowane czynnikami ludzkimi.  
+   3.2.4.1. Katastrofy budowlane.
+   3.2.4.2. Katastrofy drogowo – kolejowe.  
+   3.2.4.3. Osuwiska.
+   3.2.4.4. Ska¿enia chemiczno – ekologiczne.  
+   3.2.4.5. Ska¿enia radiacyjne. 
+  3.2.5. Zagro¿enia pogodowe. 	
+   3.2.5.1.  Silne mrozy i intensywne opady œniegu. 
+   3.2.5.2. Powodzie. 
+   3.2.5.3. Po¿ary. 
+   3.2.5.4. Susze i upa³y.
+   3.2.5.5. Huraganowe wiatry / tr¹by powietrzne.
+  3.2.6. Zagro¿enia energetyczne.	
+   3.2.6.1. Zak³ócenia dostaw energii cieplnej.
+   3.2.6.2. Zak³ócenia dostaw energii elektrycznej. 
+   3.2.6.3. Zak³ócenia dostaw paliw. 
+   3.2.6.4. Zak³ócenia dostaw gazu. 
+   3.2.6.5. Zak³ócenia magnetyczne.
+  3.2.7. Zagro¿enia inwestycyjne.	
+   3.2.7.1. Brak zasobów surowcowych. 
+   3.2.7.2. Brak zasobów ludzkich.
+   3.2.7.3. Brak narzêdzi. 
+   3.2.7.4. Brak maszyn.
+   3.2.7.5. Zbyt ma³o czasu na wykonanie inwestycji. 
+ 3.3. Otoczenie Techniczne. 
+  3.3.1.  Spadki terenu. 	
+   3.3.1.1. Nizinne ze spadkiem (s = 0,00 do 5‰). 
+   3.3.1.2. Pofa³dowane ze spadkiem (s = 5‰ do 3%). 
+   3.3.1.3. Podgórskie ze spadkiem (s = 3% do 12%). 
+   3.3.1.4. Podgórskie ze spadkiem (s > 12%). 
+   3.3.1.5. Dodatkowym kryterium jest wektor spadku. 
+  3.3.2. Lokalizacja odbiornika œcieków. 	
+   3.3.2.1. W centrum gminy. 
+   3.3.2.2. Na obrze¿u gminy. 
+   3.3.2.3. Odprowadzenie do oczyszczalni poza terenem gminy.
+  3.3.3. Poziom wody gruntowej. 	
+   3.3.3.1. Poziom 1 -  (h = 0 do 0,5 m). 
+   3.3.3.2. Poziom 2 - ( 0.5m < h < 1,5 m).
+   3.3.3.3. Poziom 3 - (1,5m < h < 3,0 m).
+   3.3.3.4. Poziom 4 - (3 < h >5 m). 
+   3.3.3.5. Poziom 5 - (h > 5 m).
+  3.3.4. Charakter zabudowy. 	
+   3.3.4.1. Zwarta. 
+   3.3.4.2. Œrednio zwarta. 
+   3.3.4.3. Rozproszona.
+  3.3.5. Drogi. 	
+   3.3.5.1. Drogi gminne. 
+   3.3.5.2. Drogi powiatowe. 
+   3.3.5.3. Drogi wojewódzkie. 
+   3.3.5.4. Drogi krajowe i  szybkiego ruchu. 
+   3.3.5.5. Autostrady.
+  3.3.6.  Infrastruktura energetyczna. 	
+   3.3.6.1. Dostêpnoœæ zasilania z jednej sieci.
+   3.3.6.2. Dostêpnoœæ zasilania z dwóch sieci.
+   3.3.6.3. 1_sieæ nadziemna. 
+   3.3.6.4. 2_sieci nadziemne.
+   3.3.6.5. 3_sieci nadziemne. 
+  3.3.7. Infrastruktura podziemna. 	
+   3.3.7.1. 1_sieæ.
+   3.3.7.2. 2_sieci.
+   3.3.7.3. 3_sieci.
+   3.3.7.4. 4_sieci.
+   3.3.7.5. 5_sieci i wiêcej. 
+ 3.4. Otoczenie Ekonomiczne. 
+  3.4.1. Mo¿liwoœci finansowe gminy.	
+   3.4.1.1. W granicach do 10% kosztów inwestycji.
+   3.4.1.2. W granicach 10% do 20% kosztów inwestycji.
+   3.4.1.3. W granicach 20% do 40% kosztów inwestycji. 
+   3.4.1.4. Do 60% kosztów inwestycji.
+   3.4.1.5. Powy¿ej 60% kosztów inwestycji. 
+  3.4.2. Mo¿liwoœci dofinansowania z funduszy zewnêtrznych.	
+   3.4.2.1. W granicach do 20% kosztów inwestycyjnych.
+   3.4.2.2. W granicach 20 do 50% kosztów inwestycyjnych. 
+   3.4.2.3. Powy¿ej 50% kosztów inwestycyjnych. 
+  3.4.3. Koszty inwestycyjne wybudowania kanalizacji. 	
+   3.4.3.1. Opis sieci. 
+   3.4.3.2. Przy³¹cza. 
+   3.4.3.3. Kolektory. 
+   3.4.3.4. Liczba studni. 
+   3.4.3.5. £¹czna d³ugoœæ kanalizacji. 
+  3.4.4. Koszty eksploatacyjne odprowadzonych œcieków. 	
+   3.4.4.1. Koszty ogólnozak³adowe. 
+   3.4.4.2. Koszty obrotów wewnêtrznych.  
+   3.4.4.3. Koszty  zewnêtrzne. 
+   3.4.4.4. Podatki. 
+    3.4.4.4.1. Od towarów i us³ug – VAT. 
+    3.4.4.4.2. Podatek dochodowy.  
+    3.4.4.4.3. Amortyzacja.  
+   3.4.4.5. Pracownicy. 
+    3.4.4.5.1. Wynagrodzenie. 
+    3.4.4.5.2. Podró¿e s³u¿bowe VAT. 
+    3.4.4.5.3. Œwiadczenia na rzecz pracownika. 
+   3.4.4.6. Us³ugi zewnêtrzne. 
+   3.4.4.7. Inne. 
+  3.4.5. Przychody z wybudowania kanalizacji. 	
+   3.4.5.1. Za odprowadzanie œcieków na 1 mieszkañca. 
+   3.4.5.2. Us³ugi remontowe. 
+   3.4.5.3. Us³ugi reklamowe i inne.
+ 3.5. Otoczenie Œrodowiskowe. 
+  3.5.1. Zanieczyszczenia wód gruntowych.	
+   3.5.1.1. Brak. 
+   3.5.1.2. Kwasy humusowe i zwi¹zki chemiczne zwiêkszaj¹ce kwasowoœæ gruntu do (pH = 5,0). 
+   3.5.1.3. Zwi¹zki chemiczne silnie koroduj¹ce  zwiêkszaj¹ce kwasowoœæ gruntu (3,5 < pH < 5,0).
+  3.5.2. Obszary chronione w gminie. 	
+   3.5.2.1. Parki narodowe, (od 0 do 10%).  
+   3.5.2.2. Rezerwaty  (od 10% do 30%). 
+   3.5.2.3. Obszary natura 2000 (od 30% do 60%).
+   3.5.2.4. Parki krajobrazowe (od 0% do 10%).
+   3.5.2.5. Obszary chronionego krajobrazu (od 10% do 30%).
+  3.5.3. Mo¿liwoœæ emisji odorów i gazów szkodliwych dla zdrowia. 	
+   3.5.3.1. W odleg³oœciach od siedzib mieszkañców( L < 5m). 
+   3.5.3.2. W odleg³oœciach od siedzib mieszkañców (5m < L < 15 m). 
+   3.5.3.3. W odleg³oœciach od siedzib mieszkañców (15m < L < 30 m). 
+   3.5.3.4. W odleg³oœciach od siedzib mieszkañców (30m < L < 50m).
+   3.5.3.5. W odleg³oœciach od siedzib mieszkañców (L > 50m). 
+  3.5.4. Typ gruntów. 	
+   3.5.4.1. Skalisty. 
+   3.5.4.2.  Bardzo spoisty, zwarty. 
+   3.5.4.3.  Inne grunty noœne.
+  3.5.5. Obszary chronione na terenie gminy. 
+   3.5.5.1. Obszary chronione na terenie gminy  ujêcia wody podziemnej. 
+   3.5.5.2. Obszar przylegaj¹cy do ujêcia z mo¿liwoœci¹ przep³ywów podziemnych.
+   3.5.5.3. Obszary chronione na terenie gminy ujêcia wody powierzchniowe. 
+ 3.6. Otoczenie Spo³eczne. 
+  3.6.1. Uzgodnienia z w³adzami gmin. 	
+   3.6.1.1. Akceptacja bez uwag.
+   3.6.1.2. Akceptacja z ma³o istotnymi uwagami.
+   3.6.1.3. Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji.  
+   3.6.1.4. Brak akceptacji. 
+   3.6.1.5. Podjêcie uchwa³y. 
+  3.6.2. Uzgodnienia z mieszkañcami. 	
+   3.6.2.1.  Akceptacja bez uwag.
+   3.6.2.2.  Akceptacja z ma³o istotnymi uwagami. 
+   3.6.2.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   3.6.2.4.  Brak akceptacji. 
+   3.6.2.5. Podjêcie uchwa³y. 
+  3.6.3.  Uzgodnienia z w³adzami powiatowymi i wojewódzkimi.	
+   3.6.3.1.  Akceptacja bez uwag.
+   3.6.3.2.  Akceptacja z ma³o istotnymi uwagami.
+   3.6.3.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   3.6.3.4.  Brak akceptacji. 
+   3.6.3.5.  Podjêcie uchwa³y.
+  3.6.4. Uzgodnienia z s¹siednimi gminami. 	
+   3.6.4.1.  Akceptacja bez uwag.
+   3.6.4.2.. Akceptacja z ma³o istotnymi uwagami.
+   3.6.4.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   3.6.4.4. Brak akceptacji.
+   3.6.4.5. Podjêcie uchwa³y. 
+  3.6.5. Struktura przestrzenna i podzia³ gminy.	
+   3.6.5.1. Bez podzia³u.
+   3.6.5.2. 1_element podzia³u. 
+   3.6.5.3. 2_element podzia³u. 
+   3.6.5.4. 3_element podzia³u. 
+   3.6.5.5. 4 i wiêcej elementów podzia³u. 
+ 3.7. Otoczenie Biznesowe 
+  3.7.1. Rozwoju wsi.	
+   3.7.1.1. Plan Urz¹dzeniowo Rolny (PUR). 
+   3.7.1.2. Potencja³ zasobów ludzkich. 
+   3.7.1.3. Potencja³ zasobów ziem rolnych.
+   3.7.1.4. Potencja³ zasobów kopalnianych. 
+   3.7.1.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  3.7.2. Rozwoju gminy.	
+   3.7.2.1. Studium wykonalnoœci lub warunki zabudowy gminy.
+   3.7.2.2. Potencja³ zasobów ludzkich. 
+   3.7.2.3. Potencja³ zasobów gruntowych.
+   3.7.2.4. Potencja³ zasobów infrastrukturalnych. 
+   3.7.2.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  3.7.3. Rozwoju miasta. 	
+   3.7.3.1. Plan zagospodarowania lub warunki zabudowy.
+   3.7.3.2. Potencja³ zasobów infrastrukturalno – gruntowych.  
+   3.7.3.3. Zainteresowanie inwestycyjne przedsiêbiorców.
+4. Sieæ Niskociœnieniowa
+ 4.1. Otoczenie Projektowe.   
+  4.1.1. Dane pocz¹tkowe.
+   4.1.1.1. Dane. 
+    4.1.1.1.1. Hydrologiczne.
+    4.1.1.1.2. Hydrogeologiczne. 
+    4.1.1.1.3. Hydrograficzne odbiornika œcieków. 
+   4.1.1.2. Plany. 
+    4.1.1.2.1. Sytuacyjno-wysokoœciowy uk³ad terenów kanalizacyjnych. 
+    4.1.1.2.2. Uk³ad melioracyjny. 
+     4.1.1.2.2.1. Kana³y melioracyjne zbiorcze. 
+     4.1.1.2.2.2. Ruroci¹gi melioracyjne szczegó³owe. 
+   4.1.1.3. Zakres. 
+    4.1.1.3.1. Dane okreœlaj¹ce zu¿ycie wody. 
+     4.1.1.3.1.1. Dane dla gospodarstw z produkcj¹ zwierzêc¹.   
+     4.1.1.3.1.2. Dane dla gospodarstw bez produkcji zwierzêcej.  
+    4.1.1.3.2. Wielkoœæ obszaru odprowadzania œcieków. 
+    4.1.1.3.3. Mo¿liwoœci odbioru œcieków. 
+  4.1.2. Rodzaje œcieków.	
+   4.1.2.1. Bytowo - gospodarcze (fekalia).  
+   4.1.2.2. Opadowe .
+   4.1.2.3. Przemys³owe.
+  4.1.3. Metody.
+   4.1.3.1. Grawitacyjna.
+   4.1.3.2. Ciœnieniowa.
+    4.1.3.2.1. Niskociœnieniowa.
+    4.1.3.2.2. Podciœnieniowa.
+    4.1.3.2.3. Wysokociœnieniowa. 
+   4.1.3.3. Ma³oœrednicowa. 
+   4.1.3.4. Mieszana. 
+    4.1.3.4.1. Grawitacyjna w terenach skalistych. 
+    4.1.3.4.2. Ciœnieniowa. 
+     4.1.3.4.2.1. Niskociœnieniow¹. 
+     4.1.3.4.2.2. Podciœnieniow¹. 
+     4.1.3.4.2.3. Wysokociœnieniow¹. 
+   4.1.3.5. Oczyszczalnia przydomowe. 
+  4.1.4.  Rodzaje sieci kanalizacyjnej.	
+   4.1.4.1. Deszczowa. 
+   4.1.4.2. Bytowo-przemys³owa. 
+   4.1.4.3. Ogólnosp³awna. 
+  4.1.5. Sposób wykreœlenia sieci.	
+   4.1.5.1. Studnia rewizyjna. 
+   4.1.5.2. Studnie zaworowe.
+   4.1.5.3. Odpowietrzniki. 
+ 4.2. Otoczenie Strategiczne.
+  4.2.1. Zagro¿enia najwy¿szego rzêdu. 	
+   4.2.1.1. Zagro¿enie utraty ¿ycia. 
+   4.2.1.2. Zagro¿enie utraty zdrowia. 
+   4.2.1.3. Zagro¿enie utraty maj¹tku.
+  4.2.2. Zagro¿enia wy¿szego rzêdu.	
+   4.2.2.1. Protesty spo³eczne. 
+   4.2.2.2. Zagro¿enia terrorystyczne. 
+   4.2.2.3. Mo¿liwoœæ kolizji z inwestycj¹ wy¿szego rzêdu. 
+  4.2.3. Zagro¿enia chorobami zakaŸnymi. 	
+   4.2.3.1. Epidemia. 
+   4.2.3.2. Epifitozy. 
+   4.2.3.3. Epizootie. 
+  4.2.4. Zagro¿enia spowodowane czynnikami ludzkimi.  
+   4.2.4.1. Katastrofy budowlane.
+   4.2.4.2. Katastrofy drogowo – kolejowe.  
+   4.2.4.3. Osuwiska.
+   4.2.4.4. Ska¿enia chemiczno – ekologiczne.  
+   4.2.4.5. Ska¿enia radiacyjne. 
+  4.2.5. Zagro¿enia pogodowe. 	
+   4.2.5.1.  Silne mrozy i intensywne opady œniegu. 
+   4.2.5.2. Powodzie. 
+   4.2.5.3. Po¿ary. 
+   4.2.5.4. Susze i upa³y.
+   4.2.5.5. Huraganowe wiatry / tr¹by powietrzne.
+  4.2.6. Zagro¿enia energetyczne.	
+   4.2.6.1. Zak³ócenia dostaw energii cieplnej.
+   4.2.6.2. Zak³ócenia dostaw energii elektrycznej. 
+   4.2.6.3. Zak³ócenia dostaw paliw. 
+   4.2.6.4. Zak³ócenia dostaw gazu. 
+   4.2.6.5. Zak³ócenia magnetyczne.
+  4.2.7. Zagro¿enia inwestycyjne.	
+   4.2.7.1. Brak zasobów surowcowych. 
+   4.2.7.2. Brak zasobów ludzkich.
+   4.2.7.3. Brak narzêdzi. 
+   4.2.7.4. Brak maszyn.
+   4.2.7.5. Zbyt ma³o czasu na wykonanie inwestycji. 
+ 4.3. Otoczenie Techniczne. 
+  4.3.1.  Spadki terenu. 	
+   4.3.1.1. Nizinne ze spadkiem (s = 0,00 do 5‰). 
+   4.3.1.2. Pofa³dowane ze spadkiem (s = 5‰ do 3%). 
+   4.3.1.3. Podgórskie ze spadkiem (s = 3% do 12%). 
+   4.3.1.4. Podgórskie ze spadkiem (s > 12%). 
+   4.3.1.5. Dodatkowym kryterium jest wektor spadku. 
+  4.3.2. Lokalizacja odbiornika œcieków. 	
+   4.3.2.1. W centrum gminy. 
+   4.3.2.2. Na obrze¿u gminy. 
+   4.3.2.3. Odprowadzenie do oczyszczalni poza terenem gminy.
+  4.3.3. Poziom wody gruntowej. 	
+   4.3.3.1. Poziom 1 -  (h = 0 do 0,5 m). 
+   4.3.3.2. Poziom 2 - ( 0.5m < h < 1,5 m).
+   4.3.3.3. Poziom 3 - (1,5m < h < 3,0 m).
+   4.3.3.4. Poziom 4 - (3 < h >5 m). 
+   4.3.3.5. Poziom 5 - (h > 5 m).
+  4.3.4. Charakter zabudowy. 	
+   4.3.4.1. Zwarta. 
+   4.3.4.2. Œrednio zwarta. 
+   4.3.4.3. Rozproszona.
+  4.3.5. Drogi. 	
+   4.3.5.1. Drogi gminne. 
+   4.3.5.2. Drogi powiatowe. 
+   4.3.5.3. Drogi wojewódzkie. 
+   4.3.5.4. Drogi krajowe i  szybkiego ruchu. 
+   4.3.5.5. Autostrady.
+  4.3.6.  Infrastruktura energetyczna. 	
+   4.3.6.1. Dostêpnoœæ zasilania z jednej sieci.
+   4.3.6.2. Dostêpnoœæ zasilania z dwóch sieci.
+   4.3.6.3. 1_sieæ nadziemna. 
+   4.3.6.4. 2_sieci nadziemne.
+   4.3.6.5. 3_sieci nadziemne. 
+  4.3.7. Infrastruktura podziemna. 	
+   4.3.7.1. 1_sieæ.
+   4.3.7.2. 2_sieci.
+   4.3.7.3. 3_sieci.
+   4.3.7.4. 4_sieci.
+   4.3.7.5. 5_sieci i wiêcej. 
+ 4.4. Otoczenie Ekonomiczne. 
+  4.4.1. Mo¿liwoœci finansowe gminy.	
+   4.4.1.1. W granicach do 10% kosztów inwestycji.
+   4.4.1.2. W granicach 10% do 20% kosztów inwestycji.
+   4.4.1.3. W granicach 20% do 40% kosztów inwestycji. 
+   4.4.1.4. Do 60% kosztów inwestycji.
+   4.4.1.5. Powy¿ej 60% kosztów inwestycji. 
+  4.4.2. Mo¿liwoœci dofinansowania z funduszy zewnêtrznych.	
+   4.4.2.1. W granicach do 20% kosztów inwestycyjnych.
+   4.4.2.2. W granicach 20 do 50% kosztów inwestycyjnych. 
+   4.4.2.3. Powy¿ej 50% kosztów inwestycyjnych. 
+  4.4.3. Koszty inwestycyjne wybudowania kanalizacji. 	
+   4.4.3.1. Opis sieci. 
+   4.4.3.2. Przy³¹cza. 
+   4.4.3.3. Kolektory. 
+   4.4.3.4. Liczba studni. 
+   4.4.3.5. £¹czna d³ugoœæ kanalizacji. 
+  4.4.4. Koszty eksploatacyjne odprowadzonych œcieków. 	
+   4.4.4.1. Koszty ogólnozak³adowe. 
+   4.4.4.2. Koszty obrotów wewnêtrznych.  
+   4.4.4.3. Koszty  zewnêtrzne. 
+   4.4.4.4. Podatki. 
+    4.4.4.4.1. Od towarów i us³ug – VAT. 
+    4.4.4.4.2. Podatek dochodowy.  
+    4.4.4.4.3. Amortyzacja.  
+   4.4.4.5. Pracownicy. 
+    4.4.4.5.1. Wynagrodzenie. 
+    4.4.4.5.2. Podró¿e s³u¿bowe VAT. 
+    4.4.4.5.3. Œwiadczenia na rzecz pracownika. 
+   4.4.4.6. Us³ugi zewnêtrzne. 
+   4.4.4.7. Inne. 
+  4.4.5. Przychody z wybudowania kanalizacji. 	
+   4.4.5.1. Za odprowadzanie œcieków na 1 mieszkañca. 
+   4.4.5.2. Us³ugi remontowe. 
+   4.4.5.3. Us³ugi reklamowe i inne.
+ 4.5. Otoczenie Œrodowiskowe 
+  4.5.1. Zanieczyszczenia wód gruntowych.	
+   4.5.1.1. Brak. 
+   4.5.1.2. Kwasy humusowe i zwi¹zki chemiczne zwiêkszaj¹ce kwasowoœæ gruntu do (pH = 5,0). 
+   4.5.1.3. Zwi¹zki chemiczne silnie koroduj¹ce  zwiêkszaj¹ce kwasowoœæ gruntu (3,5 < pH < 5,0).
+  4.5.2. Obszary chronione w gminie. 	
+   4.5.2.1. Parki narodowe, (od 0 do 10%).  
+   4.5.2.2. Rezerwaty  (od 10% do 30%). 
+   4.5.2.3. Obszary natura 2000 (od 30% do 60%).
+   4.5.2.4. Parki krajobrazowe (od 0% do 10%).
+   4.5.2.5. Obszary chronionego krajobrazu (od 10% do 30%).
+  4.5.3. Mo¿liwoœæ emisji odorów i gazów szkodliwych dla zdrowia. 	
+   4.5.3.1. W odleg³oœciach od siedzib mieszkañców( L < 5m). 
+   4.5.3.2. W odleg³oœciach od siedzib mieszkañców (5m < L < 15 m). 
+   4.5.3.3. W odleg³oœciach od siedzib mieszkañców (15m < L < 30 m). 
+   4.5.3.4. W odleg³oœciach od siedzib mieszkañców (30m < L < 50m).
+   4.5.3.5. W odleg³oœciach od siedzib mieszkañców (L > 50m). 
+  4.5.4. Typ gruntów. 	
+   4.5.4.1. Skalisty. 
+   4.5.4.2.  Bardzo spoisty, zwarty. 
+   4.5.4.3.  Inne grunty noœne.
+  4.5.5. Obszary chronione na terenie gminy. 
+   4.5.5.1. Obszary chronione na terenie gminy  ujêcia wody podziemnej. 
+   4.5.5.2. Obszar przylegaj¹cy do ujêcia z mo¿liwoœci¹ przep³ywów podziemnych.
+   4.5.5.3. Obszary chronione na terenie gminy ujêcia wody powierzchniowe. 
+ 4.6. Otoczenie Spo³eczne. 
+  4.6.1. Uzgodnienia z w³adzami gmin. 	
+   4.6.1.1. Akceptacja bez uwag.
+   4.6.1.2. Akceptacja z ma³o istotnymi uwagami.
+   4.6.1.3. Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji.  
+   4.6.1.4. Brak akceptacji. 
+   4.6.1.5. Podjêcie uchwa³y. 
+  4.6.2. Uzgodnienia z mieszkañcami. 	
+   4.6.2.1.  Akceptacja bez uwag.
+   4.6.2.2.  Akceptacja z ma³o istotnymi uwagami. 
+   4.6.2.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   4.6.2.4.  Brak akceptacji. 
+   4.6.2.5. Podjêcie uchwa³y. 
+  4.6.3.  Uzgodnienia z w³adzami powiatowymi i wojewódzkimi.	
+   4.6.3.1.  Akceptacja bez uwag.
+   4.6.3.2.  Akceptacja z ma³o istotnymi uwagami.
+   4.6.3.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   4.6.3.4.  Brak akceptacji. 
+   4.6.3.5.  Podjêcie uchwa³y.
+  4.6.4. Uzgodnienia z s¹siednimi gminami. 	
+   4.6.4.1.  Akceptacja bez uwag.
+   4.6.4.2.. Akceptacja z ma³o istotnymi uwagami.
+   4.6.4.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   4.6.4.4. Brak akceptacji.
+   4.6.4.5. Podjêcie uchwa³y. 
+  4.6.5. Struktura przestrzenna i podzia³ gminy.	
+   4.6.5.1. Bez podzia³u.
+   4.6.5.2. 1_element podzia³u. 
+   4.6.5.3. 2_element podzia³u. 
+   4.6.5.4. 3_element podzia³u. 
+   4.6.5.5. 4 i wiêcej elementów podzia³u. 
+ 4.7. Otoczenie Biznesowe 
+  4.7.1. Rozwoju wsi.	
+   4.7.1.1. Plan Urz¹dzeniowo Rolny (PUR). 
+   4.7.1.2. Potencja³ zasobów ludzkich. 
+   4.7.1.3. Potencja³ zasobów ziem rolnych.
+   4.7.1.4. Potencja³ zasobów kopalnianych. 
+   4.7.1.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  4.7.2. Rozwoju gminy.	
+   4.7.2.1. Studium wykonalnoœci lub warunki zabudowy gminy.
+   4.7.2.2. Potencja³ zasobów ludzkich. 
+   4.7.2.3. Potencja³ zasobów gruntowych.
+   4.7.2.4. Potencja³ zasobów infrastrukturalnych. 
+   4.7.2.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  4.7.3. Rozwoju miasta. 	
+   4.7.3.1. Plan zagospodarowania lub warunki zabudowy.
+   4.7.3.2. Potencja³ zasobów infrastrukturalno – gruntowych.  
+   4.7.3.3. Zainteresowanie inwestycyjne przedsiêbiorców.
+5. Sieæ Wysokociœnieniowa
+ 5.1. Otoczenie Projektowe.   
+  5.1.1. Dane pocz¹tkowe.
+   5.1.1.1. Dane. 
+    5.1.1.1.1. Hydrologiczne.
+    5.1.1.1.2. Hydrogeologiczne. 
+    5.1.1.1.3. Hydrograficzne odbiornika œcieków. 
+   5.1.1.2. Plany. 
+    5.1.1.2.1. Sytuacyjno-wysokoœciowy uk³ad terenów kanalizacyjnych. 
+    5.1.1.2.2. Uk³ad melioracyjny. 
+     5.1.1.2.2.1. Kana³y melioracyjne zbiorcze. 
+     5.1.1.2.2.2. Ruroci¹gi melioracyjne szczegó³owe. 
+   5.1.1.3. Zakres. 
+    5.1.1.3.1. Dane okreœlaj¹ce zu¿ycie wody. 
+     5.1.1.3.1.1. Dane dla gospodarstw z produkcj¹ zwierzêc¹.   
+     5.1.1.3.1.2. Dane dla gospodarstw bez produkcji zwierzêcej.  
+    5.1.1.3.2. Wielkoœæ obszaru odprowadzania œcieków. 
+    5.1.1.3.3. Mo¿liwoœci odbioru œcieków. 
+  5.1.2. Rodzaje œcieków.	
+   5.1.2.1. Bytowo - gospodarcze (fekalia).  
+   5.1.2.2. Opadowe .
+   5.1.2.3. Przemys³owe.
+  5.1.3. Metody.
+   5.1.3.1. Grawitacyjna.
+   5.1.3.2. Ciœnieniowa.
+    5.1.3.2.1. Niskociœnieniowa.
+    5.1.3.2.2. Podciœnieniowa.
+    5.1.3.2.3. Wysokociœnieniowa. 
+   5.1.3.3. Ma³oœrednicowa. 
+   5.1.3.4. Mieszana. 
+    5.1.3.4.1. Grawitacyjna w terenach skalistych. 
+    5.1.3.4.2. Ciœnieniowa. 
+     5.1.3.4.2.1. Niskociœnieniow¹. 
+     5.1.3.4.2.2. Podciœnieniow¹. 
+     5.1.3.4.2.3. Wysokociœnieniow¹. 
+   5.1.3.5. Oczyszczalnia przydomowe. 
+  5.1.4.  Rodzaje sieci kanalizacyjnej.	
+   5.1.4.1. Deszczowa. 
+   5.1.4.2. Bytowo-przemys³owa. 
+   5.1.4.3. Ogólnosp³awna. 
+  5.1.5. Sposób wykreœlenia sieci.	
+   5.1.5.1. Studnia rewizyjna. 
+   5.1.5.2. Studnie zaworowe.
+   5.1.5.3. Odpowietrzniki. 
+ 5.2. Otoczenie Strategiczne.
+  5.2.1. Zagro¿enia najwy¿szego rzêdu. 	
+   5.2.1.1. Zagro¿enie utraty ¿ycia. 
+   5.2.1.2. Zagro¿enie utraty zdrowia. 
+   5.2.1.3. Zagro¿enie utraty maj¹tku.
+  5.2.2. Zagro¿enia wy¿szego rzêdu.	
+   5.2.2.1. Protesty spo³eczne. 
+   5.2.2.2. Zagro¿enia terrorystyczne. 
+   5.2.2.3. Mo¿liwoœæ kolizji z inwestycj¹ wy¿szego rzêdu. 
+  5.2.3. Zagro¿enia chorobami zakaŸnymi. 	
+   5.2.3.1. Epidemia. 
+   5.2.3.2. Epifitozy. 
+   5.2.3.3. Epizootie. 
+  5.2.4. Zagro¿enia spowodowane czynnikami ludzkimi.  
+   5.2.4.1. Katastrofy budowlane.
+   5.2.4.2. Katastrofy drogowo – kolejowe.  
+   5.2.4.3. Osuwiska.
+   5.2.4.4. Ska¿enia chemiczno – ekologiczne.  
+   5.2.4.5. Ska¿enia radiacyjne. 
+  5.2.5. Zagro¿enia pogodowe. 	
+   5.2.5.1.  Silne mrozy i intensywne opady œniegu. 
+   5.2.5.2. Powodzie. 
+   5.2.5.3. Po¿ary. 
+   5.2.5.4. Susze i upa³y.
+   5.2.5.5. Huraganowe wiatry / tr¹by powietrzne.
+  5.2.6. Zagro¿enia energetyczne.	
+   5.2.6.1. Zak³ócenia dostaw energii cieplnej.
+   5.2.6.2. Zak³ócenia dostaw energii elektrycznej. 
+   5.2.6.3. Zak³ócenia dostaw paliw. 
+   5.2.6.4. Zak³ócenia dostaw gazu. 
+   5.2.6.5. Zak³ócenia magnetyczne.
+  5.2.7. Zagro¿enia inwestycyjne.	
+   5.2.7.1. Brak zasobów surowcowych. 
+   5.2.7.2. Brak zasobów ludzkich.
+   5.2.7.3. Brak narzêdzi. 
+   5.2.7.4. Brak maszyn.
+   5.2.7.5. Zbyt ma³o czasu na wykonanie inwestycji. 
+ 5.3. Otoczenie Techniczne. 
+  5.3.1.  Spadki terenu. 	
+   5.3.1.1. Nizinne ze spadkiem (s = 0,00 do 5‰). 
+   5.3.1.2. Pofa³dowane ze spadkiem (s = 5‰ do 3%). 
+   5.3.1.3. Podgórskie ze spadkiem (s = 3% do 12%). 
+   5.3.1.4. Podgórskie ze spadkiem (s > 12%). 
+   5.3.1.5. Dodatkowym kryterium jest wektor spadku. 
+  5.3.2. Lokalizacja odbiornika œcieków. 	
+   5.3.2.1. W centrum gminy. 
+   5.3.2.2. Na obrze¿u gminy. 
+   5.3.2.3. Odprowadzenie do oczyszczalni poza terenem gminy.
+  5.3.3. Poziom wody gruntowej. 	
+   5.3.3.1. Poziom 1 -  (h = 0 do 0,5 m). 
+   5.3.3.2. Poziom 2 - ( 0.5m < h < 1,5 m).
+   5.3.3.3. Poziom 3 - (1,5m < h < 3,0 m).
+   5.3.3.4. Poziom 4 - (3 < h >5 m). 
+   5.3.3.5. Poziom 5 - (h > 5 m).
+  5.3.4. Charakter zabudowy. 	
+   5.3.4.1. Zwarta. 
+   5.3.4.2. Œrednio zwarta. 
+   5.3.4.3. Rozproszona.
+  5.3.5. Drogi. 	
+   5.3.5.1. Drogi gminne. 
+   5.3.5.2. Drogi powiatowe. 
+   5.3.5.3. Drogi wojewódzkie. 
+   5.3.5.4. Drogi krajowe i  szybkiego ruchu. 
+   5.3.5.5. Autostrady.
+  5.3.6.  Infrastruktura energetyczna. 	
+   5.3.6.1. Dostêpnoœæ zasilania z jednej sieci.
+   5.3.6.2. Dostêpnoœæ zasilania z dwóch sieci.
+   5.3.6.3. 1_sieæ nadziemna. 
+   5.3.6.4. 2_sieci nadziemne.
+   5.3.6.5. 3_sieci nadziemne. 
+  5.3.7. Infrastruktura podziemna. 	
+   5.3.7.1. 1_sieæ.
+   5.3.7.2. 2_sieci.
+   5.3.7.3. 3_sieci.
+   5.3.7.4. 4_sieci.
+   5.3.7.5. 5_sieci i wiêcej. 
+ 5.4. Otoczenie Ekonomiczne. 
+  5.4.1. Mo¿liwoœci finansowe gminy.	
+   5.4.1.1. W granicach do 10% kosztów inwestycji.
+   5.4.1.2. W granicach 10% do 20% kosztów inwestycji.
+   5.4.1.3. W granicach 20% do 40% kosztów inwestycji. 
+   5.4.1.4. Do 60% kosztów inwestycji.
+   5.4.1.5. Powy¿ej 60% kosztów inwestycji. 
+  5.4.2. Mo¿liwoœci dofinansowania z funduszy zewnêtrznych.	
+   5.4.2.1. W granicach do 20% kosztów inwestycyjnych.
+   5.4.2.2. W granicach 20 do 50% kosztów inwestycyjnych. 
+   5.4.2.3. Powy¿ej 50% kosztów inwestycyjnych. 
+  5.4.3. Koszty inwestycyjne wybudowania kanalizacji. 	
+   5.4.3.1. Opis sieci. 
+   5.4.3.2. Przy³¹cza. 
+   5.4.3.3. Kolektory. 
+   5.4.3.4. Liczba studni. 
+   5.4.3.5. £¹czna d³ugoœæ kanalizacji. 
+  5.4.4. Koszty eksploatacyjne odprowadzonych œcieków. 	
+   5.4.4.1. Koszty ogólnozak³adowe. 
+   5.4.4.2. Koszty obrotów wewnêtrznych.  
+   5.4.4.3. Koszty  zewnêtrzne. 
+   5.4.4.4. Podatki. 
+    5.4.4.4.1. Od towarów i us³ug – VAT. 
+    5.4.4.4.2. Podatek dochodowy.  
+    5.4.4.4.3. Amortyzacja.  
+   5.4.4.5. Pracownicy. 
+    5.4.4.5.1. Wynagrodzenie. 
+    5.4.4.5.2. Podró¿e s³u¿bowe VAT. 
+    5.4.4.5.3. Œwiadczenia na rzecz pracownika. 
+   5.4.4.6. Us³ugi zewnêtrzne. 
+   5.4.4.7. Inne. 
+  5.4.5. Przychody z wybudowania kanalizacji. 	
+   5.4.5.1. Za odprowadzanie œcieków na 1 mieszkañca. 
+   5.4.5.2. Us³ugi remontowe. 
+   5.4.5.3. Us³ugi reklamowe i inne.
+ 5.5. Otoczenie Œrodowiskowe. 
+  5.5.1. Zanieczyszczenia wód gruntowych.	
+   5.5.1.1. Brak. 
+   5.5.1.2. Kwasy humusowe i zwi¹zki chemiczne zwiêkszaj¹ce kwasowoœæ gruntu do (pH = 5,0). 
+   5.5.1.3. Zwi¹zki chemiczne silnie koroduj¹ce  zwiêkszaj¹ce kwasowoœæ gruntu (3,5 < pH < 5,0).
+  5.5.2. Obszary chronione w gminie. 	
+   5.5.2.1. Parki narodowe, (od 0 do 10%).  
+   5.5.2.2. Rezerwaty  (od 10% do 30%). 
+   5.5.2.3. Obszary natura 2000 (od 30% do 60%).
+   5.5.2.4. Parki krajobrazowe (od 0% do 10%).
+   5.5.2.5. Obszary chronionego krajobrazu (od 10% do 30%).
+  5.5.3. Mo¿liwoœæ emisji odorów i gazów szkodliwych dla zdrowia. 	
+   5.5.3.1. W odleg³oœciach od siedzib mieszkañców( L < 5m). 
+   5.5.3.2. W odleg³oœciach od siedzib mieszkañców (5m < L < 15 m). 
+   5.5.3.3. W odleg³oœciach od siedzib mieszkañców (15m < L < 30 m). 
+   5.5.3.4. W odleg³oœciach od siedzib mieszkañców (30m < L < 50m).
+   5.5.3.5. W odleg³oœciach od siedzib mieszkañców (L > 50m). 
+  5.5.4. Typ gruntów. 	
+   5.5.4.1. Skalisty. 
+   5.5.4.2.  Bardzo spoisty, zwarty. 
+   5.5.4.3.  Inne grunty noœne.
+  5.5.5. Obszary chronione na terenie gminy. 
+   5.5.5.1. Obszary chronione na terenie gminy  ujêcia wody podziemnej. 
+   5.5.5.2. Obszar przylegaj¹cy do ujêcia z mo¿liwoœci¹ przep³ywów podziemnych.
+   5.5.5.3. Obszary chronione na terenie gminy ujêcia wody powierzchniowe. 
+ 5.6. Otoczenie Spo³eczne. 
+  5.6.1. Uzgodnienia z w³adzami gmin. 	
+   5.6.1.1. Akceptacja bez uwag.
+   5.6.1.2. Akceptacja z ma³o istotnymi uwagami.
+   5.6.1.3. Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji.  
+   5.6.1.4. Brak akceptacji. 
+   5.6.1.5. Podjêcie uchwa³y. 
+  5.6.2. Uzgodnienia z mieszkañcami. 	
+   5.6.2.1.  Akceptacja bez uwag.
+   5.6.2.2.  Akceptacja z ma³o istotnymi uwagami. 
+   5.6.2.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   5.6.2.4.  Brak akceptacji. 
+   5.6.2.5. Podjêcie uchwa³y. 
+  5.6.3.  Uzgodnienia z w³adzami powiatowymi i wojewódzkimi.	
+   5.6.3.1.  Akceptacja bez uwag.
+   5.6.3.2.  Akceptacja z ma³o istotnymi uwagami.
+   5.6.3.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   5.6.3.4.  Brak akceptacji. 
+   5.6.3.5.  Podjêcie uchwa³y.
+  5.6.4. Uzgodnienia z s¹siednimi gminami. 	
+   5.6.4.1.  Akceptacja bez uwag.
+   5.6.4.2.. Akceptacja z ma³o istotnymi uwagami.
+   5.6.4.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   5.6.4.4. Brak akceptacji.
+   5.6.4.5. Podjêcie uchwa³y. 
+  5.6.5. Struktura przestrzenna i podzia³ gminy.	
+   5.6.5.1. Bez podzia³u.
+   5.6.5.2. 1_element podzia³u. 
+   5.6.5.3. 2_element podzia³u. 
+   5.6.5.4. 3_element podzia³u. 
+   5.6.5.5. 4 i wiêcej elementów podzia³u. 
+ 5.7. Otoczenie Biznesowe 
+  5.7.1. Rozwoju wsi.	
+   5.7.1.1. Plan Urz¹dzeniowo Rolny (PUR). 
+   5.7.1.2. Potencja³ zasobów ludzkich. 
+   5.7.1.3. Potencja³ zasobów ziem rolnych.
+   5.7.1.4. Potencja³ zasobów kopalnianych. 
+   5.7.1.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  5.7.2. Rozwoju gminy.	
+   5.7.2.1. Studium wykonalnoœci lub warunki zabudowy gminy.
+   5.7.2.2. Potencja³ zasobów ludzkich. 
+   5.7.2.3. Potencja³ zasobów gruntowych.
+   5.7.2.4. Potencja³ zasobów infrastrukturalnych. 
+   5.7.2.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  5.7.3. Rozwoju miasta. 	
+   5.7.3.1. Plan zagospodarowania lub warunki zabudowy.
+   5.7.3.2. Potencja³ zasobów infrastrukturalno – gruntowych.  
+   5.7.3.3. Zainteresowanie inwestycyjne przedsiêbiorców.
+6. Sieæ Mieszana
+ 6.1. Otoczenie Projektowe.   
+  6.1.1. Dane pocz¹tkowe.
+   6.1.1.1. Dane. 
+    6.1.1.1.1. Hydrologiczne.
+    6.1.1.1.2. Hydrogeologiczne. 
+    6.1.1.1.3. Hydrograficzne odbiornika œcieków. 
+   6.1.1.2. Plany. 
+    6.1.1.2.1. Sytuacyjno-wysokoœciowy uk³ad terenów kanalizacyjnych. 
+    6.1.1.2.2. Uk³ad melioracyjny. 
+     6.1.1.2.2.1. Kana³y melioracyjne zbiorcze. 
+     6.1.1.2.2.2. Ruroci¹gi melioracyjne szczegó³owe. 
+   6.1.1.3. Zakres. 
+    6.1.1.3.1. Dane okreœlaj¹ce zu¿ycie wody. 
+     6.1.1.3.1.1. Dane dla gospodarstw z produkcj¹ zwierzêc¹.   
+     6.1.1.3.1.2. Dane dla gospodarstw bez produkcji zwierzêcej.  
+    6.1.1.3.2. Wielkoœæ obszaru odprowadzania œcieków. 
+    6.1.1.3.3. Mo¿liwoœci odbioru œcieków. 
+  6.1.2. Rodzaje œcieków.	
+   6.1.2.1. Bytowo - gospodarcze (fekalia).  
+   6.1.2.2. Opadowe .
+   6.1.2.3. Przemys³owe.
+  6.1.3. Metody.
+   6.1.3.1. Grawitacyjna.
+   6.1.3.2. Ciœnieniowa.
+    6.1.3.2.1. Niskociœnieniowa.
+    6.1.3.2.2. Podciœnieniowa.
+    6.1.3.2.3. Wysokociœnieniowa. 
+   6.1.3.3. Ma³oœrednicowa. 
+   6.1.3.4. Mieszana. 
+    6.1.3.4.1. Grawitacyjna w terenach skalistych. 
+    6.1.3.4.2. Ciœnieniowa. 
+     6.1.3.4.2.1. Niskociœnieniow¹. 
+     6.1.3.4.2.2. Podciœnieniow¹. 
+     6.1.3.4.2.3. Wysokociœnieniow¹. 
+   6.1.3.5. Oczyszczalnia przydomowe. 
+  6.1.4.  Rodzaje sieci kanalizacyjnej.	
+   6.1.4.1. Deszczowa. 
+   6.1.4.2. Bytowo-przemys³owa. 
+   6.1.4.3. Ogólnosp³awna. 
+  6.1.5. Sposób wykreœlenia sieci.	
+   6.1.5.1. Studnia rewizyjna. 
+   6.1.5.2. Studnie zaworowe.
+   6.1.5.3. Odpowietrzniki. 
+ 6.2. Otoczenie Strategiczne.
+  6.2.1. Zagro¿enia najwy¿szego rzêdu. 	
+   6.2.1.1. Zagro¿enie utraty ¿ycia. 
+   6.2.1.2. Zagro¿enie utraty zdrowia. 
+   6.2.1.3. Zagro¿enie utraty maj¹tku.
+  6.2.2. Zagro¿enia wy¿szego rzêdu.	
+   6.2.2.1. Protesty spo³eczne. 
+   6.2.2.2. Zagro¿enia terrorystyczne. 
+   6.2.2.3. Mo¿liwoœæ kolizji z inwestycj¹ wy¿szego rzêdu. 
+  6.2.3. Zagro¿enia chorobami zakaŸnymi. 	
+   6.2.3.1. Epidemia. 
+   6.2.3.2. Epifitozy. 
+   6.2.3.3. Epizootie. 
+  6.2.4. Zagro¿enia spowodowane czynnikami ludzkimi.  
+   6.2.4.1. Katastrofy budowlane.
+   6.5.2.4.2. Katastrofy drogowo – kolejowe.  
+   6.2.4.3. Osuwiska.
+   6.2.4.4. Ska¿enia chemiczno – ekologiczne.  
+   6.2.4.5. Ska¿enia radiacyjne. 
+  6.2.5. Zagro¿enia pogodowe. 	
+   6.2.5.1.  Silne mrozy i intensywne opady œniegu. 
+   6.2.5.2. Powodzie. 
+   6.2.5.3. Po¿ary. 
+   6.2.5.4. Susze i upa³y.
+   6.2.5.5. Huraganowe wiatry / tr¹by powietrzne.
+  6.2.6. Zagro¿enia energetyczne.	
+   6.2.6.1. Zak³ócenia dostaw energii cieplnej.
+   6.2.6.2. Zak³ócenia dostaw energii elektrycznej. 
+   6.2.6.3. Zak³ócenia dostaw paliw. 
+   6.2.6.4. Zak³ócenia dostaw gazu. 
+   6.2.6.5. Zak³ócenia magnetyczne.
+  6.2.7. Zagro¿enia inwestycyjne.	
+   6.2.7.1. Brak zasobów surowcowych. 
+   6.2.7.2. Brak zasobów ludzkich.
+   6.2.7.3. Brak narzêdzi. 
+   6.2.7.4. Brak maszyn.
+   6.2.7.5. Zbyt ma³o czasu na wykonanie inwestycji. 
+ 6.3. Otoczenie Techniczne. 
+  6.3.1.  Spadki terenu. 	
+   6.3.1.1. Nizinne ze spadkiem (s = 0,00 do 5‰). 
+   6.3.1.2. Pofa³dowane ze spadkiem (s = 5‰ do 3%). 
+   6.3.1.3. Podgórskie ze spadkiem (s = 3% do 12%). 
+   6.3.1.4. Podgórskie ze spadkiem (s > 12%). 
+   6.3.1.5. Dodatkowym kryterium jest wektor spadku. 
+  6.3.2. Lokalizacja odbiornika œcieków. 	
+   6.3.2.1. W centrum gminy. 
+   6.3.2.2. Na obrze¿u gminy. 
+   6.3.2.3. Odprowadzenie do oczyszczalni poza terenem gminy.
+  6.3.3. Poziom wody gruntowej. 	
+   6.3.3.1. Poziom 1 -  (h = 0 do 0,5 m). 
+   6.3.3.2. Poziom 2 - ( 0.5m < h < 1,5 m).
+   6.3.3.3. Poziom 3 - (1,5m < h < 3,0 m).
+   6.3.3.4. Poziom 4 - (3 < h >5 m). 
+   6.3.3.5. Poziom 5 - (h > 5 m).
+  6.3.4. Charakter zabudowy. 	
+   6.3.4.1. Zwarta. 
+   6.3.4.2. Œrednio zwarta. 
+   6.3.4.3. Rozproszona.
+  6.3.5. Drogi. 	
+   6.3.5.1. Drogi gminne. 
+   6.3.5.2. Drogi powiatowe. 
+   6.3.5.3. Drogi wojewódzkie. 
+   6.3.5.4. Drogi krajowe i  szybkiego ruchu. 
+   6.3.5.5. Autostrady.
+  6.3.6.  Infrastruktura energetyczna. 	
+   6.3.6.1. Dostêpnoœæ zasilania z jednej sieci.
+   6.3.6.2. Dostêpnoœæ zasilania z dwóch sieci.
+   6.3.6.3. 1_sieæ nadziemna. 
+   6.3.6.4. 2_sieci nadziemne.
+   6.3.6.5. 3_sieci nadziemne. 
+  6.3.7. Infrastruktura podziemna. 	
+   6.3.7.1. 1_sieæ.
+   6.3.7.2. 2_sieci.
+   6.3.7.3. 3_sieci.
+   6.3.7.4. 4_sieci.
+   6.3.7.5. 5_sieci i wiêcej. 
+ 6.4. Otoczenie Ekonomiczne. 
+  6.4.1. Mo¿liwoœci finansowe gminy.	
+   6.4.1.1. W granicach do 10% kosztów inwestycji.
+   6.4.1.2. W granicach 10% do 20% kosztów inwestycji.
+   6.4.1.3. W granicach 20% do 40% kosztów inwestycji. 
+   6.4.1.4. Do 60% kosztów inwestycji.
+   6.4.1.5. Powy¿ej 60% kosztów inwestycji. 
+  6.4.2. Mo¿liwoœci dofinansowania z funduszy zewnêtrznych.	
+   6.4.2.1. W granicach do 20% kosztów inwestycyjnych.
+   6.4.2.2. W granicach 20 do 50% kosztów inwestycyjnych. 
+   6.4.2.3. Powy¿ej 50% kosztów inwestycyjnych. 
+  6.4.3. Koszty inwestycyjne wybudowania kanalizacji. 	
+   6.4.3.1. Opis sieci. 
+   6.4.3.2. Przy³¹cza. 
+   6.4.3.3. Kolektory. 
+   6.4.3.4. Liczba studni. 
+   6.4.3.5. £¹czna d³ugoœæ kanalizacji. 
+  6.4.4. Koszty eksploatacyjne odprowadzonych œcieków. 	
+   6.4.4.1. Koszty ogólnozak³adowe. 
+   6.4.4.2. Koszty obrotów wewnêtrznych.  
+   6.4.4.3. Koszty  zewnêtrzne. 
+   6.4.4.4. Podatki. 
+    6.4.4.4.1. Od towarów i us³ug – VAT. 
+    6.4.4.4.2. Podatek dochodowy.  
+    6.4.4.4.3. Amortyzacja.  
+   6.4.4.5. Pracownicy. 
+    6.4.4.5.1. Wynagrodzenie. 
+    6.4.4.5.2. Podró¿e s³u¿bowe VAT. 
+    6.4.4.5.3. Œwiadczenia na rzecz pracownika. 
+   6.4.4.6. Us³ugi zewnêtrzne. 
+   6.4.4.7. Inne. 
+  6.4.5. Przychody z wybudowania kanalizacji. 	
+   6.4.5.1. Za odprowadzanie œcieków na 1 mieszkañca. 
+   6.4.5.2. Us³ugi remontowe. 
+   6.4.5.3. Us³ugi reklamowe i inne.
+ 6.5. Otoczenie Œrodowiskowe. 
+  6.5.1. Zanieczyszczenia wód gruntowych.	
+   6.5.1.1. Brak. 
+   6.5.1.2. Kwasy humusowe i zwi¹zki chemiczne zwiêkszaj¹ce kwasowoœæ gruntu do (pH = 5,0). 
+   6.5.1.3. Zwi¹zki chemiczne silnie koroduj¹ce  zwiêkszaj¹ce kwasowoœæ gruntu (3,5 < pH < 5,0).
+  6.5.2. Obszary chronione w gminie. 	
+   6.5.2.1. Parki narodowe, (od 0 do 10%).  
+   6.5.2.2. Rezerwaty  (od 10% do 30%). 
+   6.5.2.3. Obszary natura 2000 (od 30% do 60%).
+   6.5.2.4. Parki krajobrazowe (od 0% do 10%).
+   6.5.2.5. Obszary chronionego krajobrazu (od 10% do 30%).
+  6.5.3. Mo¿liwoœæ emisji odorów i gazów szkodliwych dla zdrowia. 	
+   6.5.3.1. W odleg³oœciach od siedzib mieszkañców( L < 5m). 
+   6.5.3.2. W odleg³oœciach od siedzib mieszkañców (5m < L < 15 m). 
+   6.5.3.3. W odleg³oœciach od siedzib mieszkañców (15m < L < 30 m). 
+   6.5.3.4. W odleg³oœciach od siedzib mieszkañców (30m < L < 50m).
+   6.5.3.5. W odleg³oœciach od siedzib mieszkañców (L > 50m). 
+  6.5.4. Typ gruntów. 	
+   6.5.4.1. Skalisty. 
+   6.5.4.2.  Bardzo spoisty, zwarty. 
+   6.5.4.3.  Inne grunty noœne.
+  6.5.5. Obszary chronione na terenie gminy. 
+   6.5.5.1. Obszary chronione na terenie gminy  ujêcia wody podziemnej. 
+   6.5.5.2. Obszar przylegaj¹cy do ujêcia z mo¿liwoœci¹ przep³ywów podziemnych.
+   6.5.5.3. Obszary chronione na terenie gminy ujêcia wody powierzchniowe. 
+ 6.6. Otoczenie Spo³eczne. 
+  6.6.1. Uzgodnienia z w³adzami gmin. 	
+   6.6.1.1. Akceptacja bez uwag.
+   6.6.1.2. Akceptacja z ma³o istotnymi uwagami.
+   6.6.1.3. Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji.  
+   6.6.1.4. Brak akceptacji. 
+   6.6.1.5. Podjêcie uchwa³y. 
+  6.6.2. Uzgodnienia z mieszkañcami. 	
+   6.6.2.1.  Akceptacja bez uwag.
+   6.6.2.2.  Akceptacja z ma³o istotnymi uwagami. 
+   6.6.2.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   6.6.2.4.  Brak akceptacji. 
+   6.6.2.5. Podjêcie uchwa³y. 
+  6.6.3.  Uzgodnienia z w³adzami powiatowymi i wojewódzkimi.	
+   6.6.3.1.  Akceptacja bez uwag.
+   6.6.3.2.  Akceptacja z ma³o istotnymi uwagami.
+   6.6.3.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   6.6.3.4.  Brak akceptacji. 
+   6.6.3.5.  Podjêcie uchwa³y.
+  6.6.4. Uzgodnienia z s¹siednimi gminami. 	
+   6.6.4.1.  Akceptacja bez uwag.
+   6.6.4.2.. Akceptacja z ma³o istotnymi uwagami.
+   6.6.4.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   6.6.4.4. Brak akceptacji.
+   6.6.4.5. Podjêcie uchwa³y. 
+  6.6.5. Struktura przestrzenna i podzia³ gminy.	
+   6.6.5.1. Bez podzia³u.
+   6.6.5.2. 1_element podzia³u. 
+   6.6.5.3. 2_element podzia³u. 
+   6.6.5.4. 3_element podzia³u. 
+   6.6.5.5. 4 i wiêcej elementów podzia³u. 
+ 6.7. Otoczenie Biznesowe 
+  6.7.1. Rozwoju wsi.	
+   6.7.1.1. Plan Urz¹dzeniowo Rolny (PUR). 
+   6.7.1.2. Potencja³ zasobów ludzkich. 
+   6.7.1.3. Potencja³ zasobów ziem rolnych.
+   6.7.1.4. Potencja³ zasobów kopalnianych. 
+   6.7.1.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  6.7.2. Rozwoju gminy.	
+   6.7.2.1. Studium wykonalnoœci lub warunki zabudowy gminy.
+   6.7.2.2. Potencja³ zasobów ludzkich. 
+   6.7.2.3. Potencja³ zasobów gruntowych.
+   6.7.2.4. Potencja³ zasobów infrastrukturalnych. 
+   6.7.2.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  6.7.3. Rozwoju miasta. 	
+   6.7.3.1. Plan zagospodarowania lub warunki zabudowy.
+   6.7.3.2. Potencja³ zasobów infrastrukturalno – gruntowych.  
+   6.7.3.3. Zainteresowanie inwestycyjne przedsiêbiorców.
+7. Oczyszczalnia Przydomowa
+ 7.1. Otoczenie Projektowe.   
+  7.1.1. Dane pocz¹tkowe.
+   7.1.1.1. Dane. 
+    7.1.1.1.1. Hydrologiczne.
+    7.1.1.1.2. Hydrogeologiczne. 
+    7.1.1.1.3. Hydrograficzne odbiornika œcieków. 
+   7.1.1.2. Plany. 
+    7.1.1.2.1. Sytuacyjno-wysokoœciowy uk³ad terenów kanalizacyjnych. 
+    7.1.1.2.2. Uk³ad melioracyjny. 
+     7.1.1.2.2.1. Kana³y melioracyjne zbiorcze. 
+     7.1.1.2.2.2. Ruroci¹gi melioracyjne szczegó³owe. 
+   7.1.1.3. Zakres. 
+    7.1.1.3.1. Dane okreœlaj¹ce zu¿ycie wody. 
+     7.1.1.3.1.1. Dane dla gospodarstw z produkcj¹ zwierzêc¹.   
+     7.1.1.3.1.2. Dane dla gospodarstw bez produkcji zwierzêcej.  
+    7.1.1.3.2. Wielkoœæ obszaru odprowadzania œcieków. 
+    7.1.1.3.3. Mo¿liwoœci odbioru œcieków. 
+  7.1.2. Rodzaje œcieków.	
+   7.1.2.1. Bytowo - gospodarcze (fekalia).  
+   7.1.2.2. Opadowe .
+   7.1.2.3. Przemys³owe.
+  7.1.3. Metody.
+   7.1.3.1. Grawitacyjna.
+   7.1.3.2. Ciœnieniowa.
+    7.1.3.2.1. Niskociœnieniowa.
+    7.1.3.2.2. Podciœnieniowa.
+    7.1.3.2.3. Wysokociœnieniowa. 
+   7.1.3.3. Ma³oœrednicowa. 
+   7.1.3.4. Mieszana. 
+    7.1.3.4.1. Grawitacyjna w terenach skalistych. 
+    7.1.3.4.2. Ciœnieniowa. 
+     7.1.3.4.2.1. Niskociœnieniow¹. 
+     7.1.3.4.2.2. Podciœnieniow¹. 
+     7.1.3.4.2.3. Wysokociœnieniow¹. 
+   7.1.3.5. Oczyszczalnia przydomowe. 
+  7.1.4.  Rodzaje sieci kanalizacyjnej.	
+   7.1.4.1. Deszczowa. 
+   7.1.4.2. Bytowo-przemys³owa. 
+   7.1.4.3. Ogólnosp³awna. 
+  7.1.5. Sposób wykreœlenia sieci.	
+   7.1.5.1. Studnia rewizyjna. 
+   7.1.5.2. Studnie zaworowe.
+   7.1.5.3. Odpowietrzniki. 
+ 7.2. Otoczenie Strategiczne.
+  7.2.1. Zagro¿enia najwy¿szego rzêdu. 	
+   7.2.1.1. Zagro¿enie utraty ¿ycia. 
+   7.2.1.2. Zagro¿enie utraty zdrowia. 
+   7.2.1.3. Zagro¿enie utraty maj¹tku.
+  7.2.2. Zagro¿enia wy¿szego rzêdu.	
+   7.2.2.1. Protesty spo³eczne. 
+   7.2.2.2. Zagro¿enia terrorystyczne. 
+   7.2.2.3. Mo¿liwoœæ kolizji z inwestycj¹ wy¿szego rzêdu. 
+  7.2.3. Zagro¿enia chorobami zakaŸnymi. 	
+   7.2.3.1. Epidemia. 
+   7.2.3.2. Epifitozy. 
+   7.2.3.3. Epizootie. 
+  7.2.4. Zagro¿enia spowodowane czynnikami ludzkimi.  
+   7.2.4.1. Katastrofy budowlane.
+   7.2.4.2. Katastrofy drogowo – kolejowe.  
+   7.2.4.3. Osuwiska.
+   7.2.4.4. Ska¿enia chemiczno – ekologiczne.  
+   7.2.4.5. Ska¿enia radiacyjne. 
+  7.2.5. Zagro¿enia pogodowe. 	
+   7.2.5.1.  Silne mrozy i intensywne opady œniegu. 
+   7.2.5.2. Powodzie. 
+   7.2.5.3. Po¿ary. 
+   7.2.5.4. Susze i upa³y.
+   7.2.5.5. Huraganowe wiatry / tr¹by powietrzne.
+  7.2.6. Zagro¿enia energetyczne.	
+   7.2.6.1. Zak³ócenia dostaw energii cieplnej.
+   7.2.6.2. Zak³ócenia dostaw energii elektrycznej. 
+   7.2.6.3. Zak³ócenia dostaw paliw. 
+   7.2.6.4. Zak³ócenia dostaw gazu. 
+   7.2.6.5. Zak³ócenia magnetyczne.
+  7.2.7. Zagro¿enia inwestycyjne.	
+   7.2.7.1. Brak zasobów surowcowych. 
+   7.2.7.2. Brak zasobów ludzkich.
+   7.2.7.3. Brak narzêdzi. 
+   7.2.7.4. Brak maszyn.
+   7.2.7.5. Zbyt ma³o czasu na wykonanie inwestycji. 
+ 7.3. Otoczenie Techniczne. 
+  7.3.1.  Spadki terenu. 	
+   7.3.1.1. Nizinne ze spadkiem (s = 0,00 do 5‰). 
+   7.3.1.2. Pofa³dowane ze spadkiem (s = 5‰ do 3%). 
+   7.3.1.3. Podgórskie ze spadkiem (s = 3% do 12%). 
+   7.3.1.4. Podgórskie ze spadkiem (s > 12%). 
+   7.3.1.5. Dodatkowym kryterium jest wektor spadku. 
+  7.3.2. Lokalizacja odbiornika œcieków. 	
+   7.3.2.1. W centrum gminy. 
+   7.3.2.2. Na obrze¿u gminy. 
+   7.3.2.3. Odprowadzenie do oczyszczalni poza terenem gminy.
+  7.3.3. Poziom wody gruntowej. 	
+   7.3.3.1. Poziom 1 -  (h = 0 do 0,5 m). 
+   7.3.3.2. Poziom 2 - ( 0.5m < h < 1,5 m).
+   7.3.3.3. Poziom 3 - (1,5m < h < 3,0 m).
+   7.3.3.4. Poziom 4 - (3 < h >5 m). 
+   7.3.3.5. Poziom 5 - (h > 5 m).
+  7.3.4. Charakter zabudowy. 	
+   7.3.4.1. Zwarta. 
+   7.3.4.2. Œrednio zwarta. 
+   7.3.4.3. Rozproszona.
+  7.3.5. Drogi. 	
+   7.3.5.1. Drogi gminne. 
+   7.3.5.2. Drogi powiatowe. 
+   7.3.5.3. Drogi wojewódzkie. 
+   7.3.5.4. Drogi krajowe i  szybkiego ruchu. 
+   7.3.5.5. Autostrady.
+  7.3.6.  Infrastruktura energetyczna. 	
+   7.3.6.1. Dostêpnoœæ zasilania z jednej sieci.
+   7.3.6.2. Dostêpnoœæ zasilania z dwóch sieci.
+   7.3.6.3. 1_sieæ nadziemna. 
+   7.3.6.4. 2_sieci nadziemne.
+   7.3.6.5. 3_sieci nadziemne. 
+  7.3.7. Infrastruktura podziemna. 	
+   7.3.7.1. 1_sieæ.
+   7.3.7.2. 2_sieci.
+   7.3.7.3. 3_sieci.
+   7.3.7.4. 4_sieci.
+   7.3.7.5. 5_sieci i wiêcej. 
+ 7.4. Otoczenie Ekonomiczne. 
+  7.4.1. Mo¿liwoœci finansowe gminy.	
+   7.4.1.1. W granicach do 10% kosztów inwestycji.
+   7.4.1.2. W granicach 10% do 20% kosztów inwestycji.
+   7.4.1.3. W granicach 20% do 40% kosztów inwestycji. 
+   7.4.1.4. Do 60% kosztów inwestycji.
+   7.4.1.5. Powy¿ej 60% kosztów inwestycji. 
+  7.4.2. Mo¿liwoœci dofinansowania z funduszy zewnêtrznych.	
+   7.4.2.1. W granicach do 20% kosztów inwestycyjnych.
+   7.4.2.2. W granicach 20 do 50% kosztów inwestycyjnych. 
+   7.4.2.3. Powy¿ej 50% kosztów inwestycyjnych. 
+  7.4.3. Koszty inwestycyjne wybudowania kanalizacji. 	
+   7.4.3.1. Opis sieci. 
+   7.4.3.2. Przy³¹cza. 
+   7.4.3.3. Kolektory. 
+   7.4.3.4. Liczba studni. 
+   7.4.3.5. £¹czna d³ugoœæ kanalizacji. 
+  7.4.4. Koszty eksploatacyjne odprowadzonych œcieków. 	
+   7.4.4.1. Koszty ogólnozak³adowe. 
+   7.4.4.2. Koszty obrotów wewnêtrznych.  
+   7.4.4.3. Koszty  zewnêtrzne. 
+   7.4.4.4. Podatki. 
+    7.4.4.4.1. Od towarów i us³ug – VAT. 
+    7.4.4.4.2. Podatek dochodowy.  
+    7.4.4.4.3. Amortyzacja.  
+   7.4.4.5. Pracownicy. 
+    7.4.4.5.1. Wynagrodzenie. 
+    7.4.4.5.2. Podró¿e s³u¿bowe VAT. 
+    7.4.4.5.3. Œwiadczenia na rzecz pracownika. 
+   7.4.4.6. Us³ugi zewnêtrzne. 
+   7.4.4.7. Inne. 
+  7.4.5. Przychody z wybudowania kanalizacji. 	
+   7.4.5.1. Za odprowadzanie œcieków na 1 mieszkañca. 
+   7.4.5.2. Us³ugi remontowe. 
+   7.4.5.3. Us³ugi reklamowe i inne.
+ 7.5. Otoczenie Œrodowiskowe. 
+  7.5.1. Zanieczyszczenia wód gruntowych.	
+   7.5.1.1. Brak. 
+   7.5.1.2. Kwasy humusowe i zwi¹zki chemiczne zwiêkszaj¹ce kwasowoœæ gruntu do (pH = 5,0). 
+   7.5.1.3. Zwi¹zki chemiczne silnie koroduj¹ce  zwiêkszaj¹ce kwasowoœæ gruntu (3,5 < pH < 5,0).
+  7.5.2. Obszary chronione w gminie. 	
+   7.5.2.1. Parki narodowe, (od 0 do 10%).  
+   7.5.2.2. Rezerwaty  (od 10% do 30%). 
+   7.5.2.3. Obszary natura 2000 (od 30% do 60%).
+   7.5.2.4. Parki krajobrazowe (od 0% do 10%).
+   7.5.2.5. Obszary chronionego krajobrazu (od 10% do 30%).
+  7.5.3. Mo¿liwoœæ emisji odorów i gazów szkodliwych dla zdrowia. 	
+   7.5.3.1. W odleg³oœciach od siedzib mieszkañców( L < 5m). 
+   7.5.3.2. W odleg³oœciach od siedzib mieszkañców (5m < L < 15 m). 
+   7.5.3.3. W odleg³oœciach od siedzib mieszkañców (15m < L < 30 m). 
+   7.5.3.4. W odleg³oœciach od siedzib mieszkañców (30m < L < 50m).
+   7.5.3.5. W odleg³oœciach od siedzib mieszkañców (L > 50m). 
+  7.5.4. Typ gruntów. 	
+   7.5.4.1. Skalisty. 
+   7.5.4.2.  Bardzo spoisty, zwarty. 
+   7.5.4.3.  Inne grunty noœne.
+  7.5.5. Obszary chronione na terenie gminy. 
+   7.5.5.1. Obszary chronione na terenie gminy  ujêcia wody podziemnej. 
+   7.5.5.2. Obszar przylegaj¹cy do ujêcia z mo¿liwoœci¹ przep³ywów podziemnych.
+   7.5.5.3. Obszary chronione na terenie gminy ujêcia wody powierzchniowe. 
+ 7.6. Otoczenie Spo³eczne. 
+  7.6.1. Uzgodnienia z w³adzami gmin. 	
+   7.6.1.1. Akceptacja bez uwag.
+   7.6.1.2. Akceptacja z ma³o istotnymi uwagami.
+   7.6.1.3. Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji.  
+   7.6.1.4. Brak akceptacji. 
+   7.6.1.5. Podjêcie uchwa³y. 
+  7.6.2. Uzgodnienia z mieszkañcami. 	
+   7.6.2.1.  Akceptacja bez uwag.
+   7.6.2.2.  Akceptacja z ma³o istotnymi uwagami. 
+   7.6.2.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   7.6.2.4.  Brak akceptacji. 
+   7.6.2.5. Podjêcie uchwa³y. 
+  7.6.3.  Uzgodnienia z w³adzami powiatowymi i wojewódzkimi.	
+   7.6.3.1.  Akceptacja bez uwag.
+   7.6.3.2.  Akceptacja z ma³o istotnymi uwagami.
+   7.6.3.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   7.6.3.4.  Brak akceptacji. 
+   7.6.3.5.  Podjêcie uchwa³y.
+  7.6.4. Uzgodnienia z s¹siednimi gminami. 	
+   7.6.4.1.  Akceptacja bez uwag.
+   7.6.4.2.. Akceptacja z ma³o istotnymi uwagami.
+   7.6.4.3.  Akceptacja z uwagami maj¹cymi wp³yw na kszta³t koncepcji. 
+   7.6.4.4. Brak akceptacji.
+   7.6.4.5. Podjêcie uchwa³y. 
+  7.6.5. Struktura przestrzenna i podzia³ gminy.	
+   7.6.5.1. Bez podzia³u.
+   7.6.5.2. 1_element podzia³u. 
+   7.6.5.3. 2_element podzia³u. 
+   7.6.5.4. 3_element podzia³u. 
+   7.6.5.5. 4 i wiêcej elementów podzia³u. 
+ 7.7. Otoczenie Biznesowe 
+  7.7.1. Rozwoju wsi.	
+   7.7.1.1. Plan Urz¹dzeniowo Rolny (PUR). 
+   7.7.1.2. Potencja³ zasobów ludzkich. 
+   7.7.1.3. Potencja³ zasobów ziem rolnych.
+   7.7.1.4. Potencja³ zasobów kopalnianych. 
+   7.7.1.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  7.7.2. Rozwoju gminy.	
+   7.7.2.1. Studium wykonalnoœci lub warunki zabudowy gminy.
+   7.7.2.2. Potencja³ zasobów ludzkich. 
+   7.7.2.3. Potencja³ zasobów gruntowych.
+   7.7.2.4. Potencja³ zasobów infrastrukturalnych. 
+   7.7.2.5. Zainteresowanie inwestycyjne przedsiêbiorców. 
+  7.7.3. Rozwoju miasta. 	
+   7.7.3.1. Plan zagospodarowania lub warunki zabudowy.
+   7.7.3.2. Potencja³ zasobów infrastrukturalno – gruntowych.  
+   7.7.3.3. Zainteresowanie inwestycyjne przedsiêbiorców.
