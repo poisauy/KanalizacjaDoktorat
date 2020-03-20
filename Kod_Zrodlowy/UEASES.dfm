@@ -675,7 +675,7 @@ object Form1: TForm1
     end
   end
   object GroupBox2: TGroupBox
-    Left = 64
+    Left = 16
     Top = 182
     Width = 497
     Height = 226
@@ -761,9 +761,9 @@ object Form1: TForm1
     end
   end
   object GroupBox3: TGroupBox
-    Left = 8
+    Left = 16
     Top = 414
-    Width = 606
+    Width = 598
     Height = 243
     Caption = '3. Kryteria Macierzy G'#322#243'wnej '
     Font.Charset = DEFAULT_CHARSET
@@ -773,11 +773,60 @@ object Form1: TForm1
     Font.Style = []
     ParentFont = False
     TabOrder = 2
-    object DBGrid1: TDBGrid
+    object Label4: TLabel
+      Left = 70
+      Top = 66
+      Width = 117
+      Height = 16
+      Caption = '1. Sie'#263' Grawitacyjna'
+    end
+    object Label5: TLabel
+      Left = 51
+      Top = 89
+      Width = 136
+      Height = 16
+      Caption = '2. Sie'#263' Ma'#322'o'#347'rednicowa'
+    end
+    object Label6: TLabel
+      Left = 57
+      Top = 106
+      Width = 130
+      Height = 16
+      Caption = '3. Sie'#263' Podci'#347'nieniowa'
+    end
+    object Label7: TLabel
       Left = 56
-      Top = 48
-      Width = 457
-      Height = 160
+      Top = 129
+      Width = 131
+      Height = 16
+      Caption = '4. Sie'#263' Nadci'#347'nieniowa'
+    end
+    object Label8: TLabel
+      Left = 34
+      Top = 150
+      Width = 153
+      Height = 16
+      Caption = '5. Sie'#263' Wysokoci'#347'nieniowa'
+    end
+    object Label9: TLabel
+      Left = 91
+      Top = 173
+      Width = 96
+      Height = 16
+      Caption = '6. Sie'#263' Mieszana'
+    end
+    object Label10: TLabel
+      Left = 17
+      Top = 196
+      Width = 170
+      Height = 16
+      Caption = '7. Oczyszczalnia Przydomowa'
+    end
+    object DBGrid1: TDBGrid
+      Left = 193
+      Top = 40
+      Width = 393
+      Height = 185
       DataSource = DataSource1
       ReadOnly = True
       TabOrder = 0
@@ -789,48 +838,43 @@ object Form1: TForm1
       Columns = <
         item
           Expanded = False
-          Width = 50
+          FieldName = 'F1'
           Visible = True
         end
         item
           Expanded = False
-          Width = 50
+          FieldName = 'F2'
           Visible = True
         end
         item
           Expanded = False
-          Width = 50
+          FieldName = 'F3'
           Visible = True
         end
         item
           Expanded = False
-          Width = 50
+          FieldName = 'F4'
           Visible = True
         end
         item
           Expanded = False
-          Width = 50
+          FieldName = 'F5'
           Visible = True
         end
         item
           Expanded = False
-          Width = 50
+          FieldName = 'F6'
           Visible = True
         end
         item
           Expanded = False
-          Width = 50
-          Visible = True
-        end
-        item
-          Expanded = False
-          Width = 50
+          FieldName = 'F7'
           Visible = True
         end>
     end
   end
   object GroupBox4: TGroupBox
-    Left = 620
+    Left = 631
     Top = 452
     Width = 625
     Height = 317
@@ -844,7 +888,7 @@ object Form1: TForm1
     TabOrder = 3
   end
   object Button10: TButton
-    Left = 84
+    Left = 16
     Top = 688
     Width = 171
     Height = 25
@@ -852,7 +896,7 @@ object Form1: TForm1
     TabOrder = 4
   end
   object Button11: TButton
-    Left = 269
+    Left = 209
     Top = 688
     Width = 111
     Height = 25
@@ -861,43 +905,44 @@ object Form1: TForm1
     OnClick = Button11Click
   end
   object Button12: TButton
-    Left = 386
+    Left = 342
     Top = 688
     Width = 171
     Height = 25
-    Caption = 'Wyb'#243'r rodzaju kanalizacji'
+    Caption = 'Wyb'#243'r kanalizacji - AHP'
     TabOrder = 6
+  end
+  object FDGUIxWaitCursor1: TFDGUIxWaitCursor
+    Provider = 'Forms'
+    Left = 372
+    Top = 732
+  end
+  object FDPhysODBCDriverLink1: TFDPhysODBCDriverLink
+    DriverID = 'ODBC'
+    ODBCDriver = 'Driver do Microsoft Excel(*.xls)'
+    Left = 132
+    Top = 732
   end
   object FDConnection1: TFDConnection
     Params.Strings = (
-      'Database=E:\Doktorat\Excel\M_Glowna\AHP_MG.xls'
+      'Database=E:\Doktorat\KanalizacjaDoktorat\M_Glowna\AHP_MG.xls'
       'DriverID=ODBC')
     Connected = True
-    Left = 1188
-    Top = 596
+    Left = 516
+    Top = 732
   end
   object FDTable1: TFDTable
     Active = True
     Connection = FDConnection1
-    UpdateOptions.UpdateTableName = '`E:\Doktorat\Excel\M_Glowna\AHP_MG`.Dane_MG'
-    CatalogName = 'E:\Doktorat\Excel\M_Glowna'
-    TableName = '`E:\Doktorat\Excel\M_Glowna\AHP_MG`.Dane_MG'
-    Left = 1124
-    Top = 652
-  end
-  object FDGUIxWaitCursor1: TFDGUIxWaitCursor
-    Provider = 'Forms'
-    Left = 1196
-    Top = 652
-  end
-  object FDPhysODBCDriverLink1: TFDPhysODBCDriverLink
-    ODBCDriver = 'Driver do Microsoft Excel(*.xls)'
-    Left = 1164
-    Top = 700
+    UpdateOptions.UpdateTableName = '`E:\Doktorat\KanalizacjaDoktorat\M_Glowna\AHP_MG`.Dane_MG'
+    CatalogName = 'E:\Doktorat\KanalizacjaDoktorat\M_Glowna'
+    TableName = '`E:\Doktorat\KanalizacjaDoktorat\M_Glowna\AHP_MG`.Dane_MG'
+    Left = 284
+    Top = 724
   end
   object DataSource1: TDataSource
     DataSet = FDTable1
-    Left = 1124
-    Top = 596
+    Left = 68
+    Top = 724
   end
 end

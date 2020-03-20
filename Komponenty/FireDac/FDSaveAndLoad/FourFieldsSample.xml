@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FDBS Version="15">
+  <Manager UpdatesRegistry="True">
+    <TableList>
+      <Table Name="FDQuery1" SourceName="CUSTOMER" SourceID="1" TabID="0" EnforceConstraints="False" MinimumCapacity="50" CheckNotNull="False" CheckReadOnly="False">
+        <ColumnList>
+          <Column Name="CUST_NO" SourceName="CUST_NO" SourceID="1" DataType="Int32" Searchable="True" Base="True" OInUpdate="True" OInWhere="True" OInKey="True" OriginTabName="CUSTOMER" OriginColName="CUST_NO"/>
+          <Column Name="CUSTOMER" SourceName="CUSTOMER" SourceID="2" DataType="AnsiString" Size="25" Searchable="True" Base="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="CUSTOMER" SourceSize="25"/>
+          <Column Name="CONTACT_FIRST" SourceName="CONTACT_FIRST" SourceID="3" DataType="AnsiString" Size="15" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="CONTACT_FIRST" SourceSize="15"/>
+          <Column Name="CONTACT_LAST" SourceName="CONTACT_LAST" SourceID="4" DataType="AnsiString" Size="20" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="CONTACT_LAST" SourceSize="20"/>
+        </ColumnList>
+        <ConstraintList/>
+        <ViewList/>
+        <RowList>
+          <Row RowID="0">
+            <Original CUST_NO="1001" CUSTOMER="Signature Design, Ltd." CONTACT_FIRST="Dale J." CONTACT_LAST="Little"/>
+          </Row>
+          <Row RowID="1">
+            <Original CUST_NO="1007" CUSTOMER="Mrs. Beauvais" CONTACT_LAST="Mrs. Beauvais"/>
+          </Row>
+        </RowList>
+      </Table>
+    </TableList>
+    <RelationList/>
+    <UpdatesJournal>
+      <Changes/>
+    </UpdatesJournal>
+  </Manager>
+</FDBS>

@@ -12,7 +12,8 @@ uses
   FireDAC.Phys.ODBC, FireDAC.Phys.ODBCDef, FireDAC.Stan.Param, FireDAC.DatS,
   FireDAC.DApt.Intf, FireDAC.DApt, FireDAC.VCLUI.Wait, Data.DB, Vcl.DBGrids,
   FireDAC.Phys.ODBCBase, FireDAC.Comp.UI, FireDAC.Comp.DataSet,
-  FireDAC.Comp.Client, VCLTee.TeEngine, VCLTee.TeeProcs, VCLTee.Chart;
+  FireDAC.Comp.Client, VCLTee.TeEngine, VCLTee.TeeProcs, VCLTee.Chart,
+  FireDAC.Phys.PGDef, FireDAC.Phys.PG;
 
 type
   TForm1 = class(TForm)
@@ -39,12 +40,19 @@ type
     Button12: TButton;
     Button13: TButton;
     TreeView1: TTreeView;
+    FDGUIxWaitCursor1: TFDGUIxWaitCursor;
+    DBGrid1: TDBGrid;
+    FDPhysODBCDriverLink1: TFDPhysODBCDriverLink;
     FDConnection1: TFDConnection;
     FDTable1: TFDTable;
-    FDGUIxWaitCursor1: TFDGUIxWaitCursor;
-    FDPhysODBCDriverLink1: TFDPhysODBCDriverLink;
     DataSource1: TDataSource;
-    DBGrid1: TDBGrid;
+    Label4: TLabel;
+    Label5: TLabel;
+    Label6: TLabel;
+    Label7: TLabel;
+    Label8: TLabel;
+    Label9: TLabel;
+    Label10: TLabel;
     procedure Button11Click(Sender: TObject);
     procedure Button13Click(Sender: TObject);
     procedure FormCreate(Sender: TObject);
@@ -70,11 +78,24 @@ end;
 
 procedure TForm1.Button13Click(Sender: TObject);
 begin
-TreeView1.LoadFromFile('E:\Doktorat\Baza_Danych\Model_7_7.dat');
+TreeView1.LoadFromFile('E:\Doktorat\KanalizacjaDoktorat\Baza_Danych\Model_7_7.txt');
 end;
 
 procedure TForm1.FormCreate(Sender: TObject);
 begin
+DBGrid1.Width:=393;
+ DBGrid1.Columns[0].Width:=50;
+ DBGrid1.Columns[1].Width:=50;
+ DBGrid1.Columns[2].Width:=50;
+ DBGrid1.Columns[3].Width:=50;
+ DBGrid1.Columns[4].Width:=50;
+ DBGrid1.Columns[5].Width:=50;
+ DBGrid1.Columns[6].Width:=50;
+
+
+
+
+
  {with StringGrid1 do
   begin
    ColCount:=8;
@@ -113,7 +134,7 @@ begin
    Cells[1,6]:='0.1245';
    Cells[1,7]:='0.2356';}
 
-  TreeView1.LoadFromFile('E:\Doktorat\Baza_Danych\Model_7_7.dat');
+  TreeView1.LoadFromFile('E:\Doktorat\KanalizacjaDoktorat\Baza_Danych\Model_7_7.txt');
   end;
 
   {

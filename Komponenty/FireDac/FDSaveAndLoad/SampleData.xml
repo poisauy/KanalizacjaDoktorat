@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FDBS Version="15">
+  <Manager UpdatesRegistry="True">
+    <TableList>
+      <Table Name="FDQuery1" SourceName="CUSTOMER" SourceID="1" TabID="0" EnforceConstraints="False" MinimumCapacity="50" CheckNotNull="False" CheckReadOnly="False">
+        <ColumnList>
+          <Column Name="CUST_NO" SourceName="CUST_NO" SourceID="1" DataType="Int32" Searchable="True" Base="True" OInUpdate="True" OInWhere="True" OInKey="True" OriginTabName="CUSTOMER" OriginColName="CUST_NO"/>
+          <Column Name="CUSTOMER" SourceName="CUSTOMER" SourceID="2" DataType="AnsiString" Size="25" Searchable="True" Base="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="CUSTOMER" SourceSize="25"/>
+          <Column Name="CONTACT_FIRST" SourceName="CONTACT_FIRST" SourceID="3" DataType="AnsiString" Size="15" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="CONTACT_FIRST" SourceSize="15"/>
+          <Column Name="CONTACT_LAST" SourceName="CONTACT_LAST" SourceID="4" DataType="AnsiString" Size="20" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="CONTACT_LAST" SourceSize="20"/>
+          <Column Name="PHONE_NO" SourceName="PHONE_NO" SourceID="5" DataType="AnsiString" Size="20" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="PHONE_NO" SourceSize="20"/>
+          <Column Name="ADDRESS_LINE1" SourceName="ADDRESS_LINE1" SourceID="6" DataType="AnsiString" Size="30" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="ADDRESS_LINE1" SourceSize="30"/>
+          <Column Name="ADDRESS_LINE2" SourceName="ADDRESS_LINE2" SourceID="7" DataType="AnsiString" Size="30" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="ADDRESS_LINE2" SourceSize="30"/>
+          <Column Name="CITY" SourceName="CITY" SourceID="8" DataType="AnsiString" Size="25" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="CITY" SourceSize="25"/>
+          <Column Name="STATE_PROVINCE" SourceName="STATE_PROVINCE" SourceID="9" DataType="AnsiString" Size="15" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="STATE_PROVINCE" SourceSize="15"/>
+          <Column Name="COUNTRY" SourceName="COUNTRY" SourceID="10" DataType="AnsiString" Size="15" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="COUNTRY" SourceSize="15"/>
+          <Column Name="POSTAL_CODE" SourceName="POSTAL_CODE" SourceID="11" DataType="AnsiString" Size="12" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="POSTAL_CODE" SourceSize="12"/>
+          <Column Name="ON_HOLD" SourceName="ON_HOLD" SourceID="12" DataType="AnsiString" Size="1" Searchable="True" AllowNull="True" FixedLen="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginTabName="CUSTOMER" OriginColName="ON_HOLD" SourceSize="1"/>
+        </ColumnList>
+        <ConstraintList/>
+        <ViewList/>
+        <RowList>
+          <Row RowID="0">
+            <Original CUST_NO="1001" CUSTOMER="Signature Design, Ltd." CONTACT_FIRST="Dale J." CONTACT_LAST="Little" PHONE_NO="(619) 530-2710" ADDRESS_LINE1="15500 Pacific Heights Blvd." CITY="San Diego" STATE_PROVINCE="CA" COUNTRY="USA" POSTAL_CODE="92121"/>
+          </Row>
+          <Row RowID="1">
+            <Original CUST_NO="1007" CUSTOMER="Mrs. Beauvais" CONTACT_LAST="Mrs. Beauvais" ADDRESS_LINE1="P.O. Box 22743" CITY="Pebble Beach" STATE_PROVINCE="CA" COUNTRY="USA" POSTAL_CODE="93953"/>
+          </Row>
+        </RowList>
+      </Table>
+    </TableList>
+    <RelationList/>
+    <UpdatesJournal>
+      <Changes/>
+    </UpdatesJournal>
+  </Manager>
+</FDBS>
