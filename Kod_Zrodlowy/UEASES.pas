@@ -13,7 +13,7 @@ uses
   FireDAC.DApt.Intf, FireDAC.DApt, FireDAC.VCLUI.Wait, Data.DB, Vcl.DBGrids,
   FireDAC.Phys.ODBCBase, FireDAC.Comp.UI, FireDAC.Comp.DataSet,
   FireDAC.Comp.Client, VCLTee.TeEngine, VCLTee.TeeProcs, VCLTee.Chart,
-  FireDAC.Phys.PGDef, FireDAC.Phys.PG;
+  FireDAC.Phys.PGDef, FireDAC.Phys.PG, Vcl.Imaging.jpeg;
 
 type
   TForm1 = class(TForm)
@@ -22,7 +22,6 @@ type
     GroupBox1: TGroupBox;
     GroupBox2: TGroupBox;
     GroupBox3: TGroupBox;
-    GroupBox4: TGroupBox;
     Button1: TButton;
     Button2: TButton;
     Button4: TButton;
@@ -53,9 +52,13 @@ type
     Label8: TLabel;
     Label9: TLabel;
     Label10: TLabel;
+    GroupBox4: TGroupBox;
+    Button14: TButton;
     procedure Button11Click(Sender: TObject);
     procedure Button13Click(Sender: TObject);
     procedure FormCreate(Sender: TObject);
+    procedure Image1Click(Sender: TObject);
+    procedure Button14Click(Sender: TObject);
   // procedure StringGridRotateTextOut(Grid: TStringGrid; ARow, ACol: Integer; Rect: TRect;
            //   Schriftart: string; Size: Integer; Color: TColor; Alignment: TAlignment);
   private
@@ -78,7 +81,12 @@ end;
 
 procedure TForm1.Button13Click(Sender: TObject);
 begin
-TreeView1.LoadFromFile('E:\Doktorat\KanalizacjaDoktorat\Baza_Danych\Model_7_7.txt');
+//TreeView1.LoadFromFile('E:\Doktorat\KanalizacjaDoktorat\Baza_Danych\Model_7_7.txt');
+end;
+
+procedure TForm1.Button14Click(Sender: TObject);
+begin
+// uruchomienie wykresu
 end;
 
 procedure TForm1.FormCreate(Sender: TObject);
@@ -134,10 +142,15 @@ DBGrid1.Width:=393;
    Cells[1,6]:='0.1245';
    Cells[1,7]:='0.2356';}
 
-  TreeView1.LoadFromFile('E:\Doktorat\KanalizacjaDoktorat\Baza_Danych\Model_7_7.txt');
+ //TreeView1.LoadFromFile('E:\Doktorat\KanalizacjaDoktorat\Baza_Danych\Model_7_7.txt ');
   end;
 
-  {
+  procedure TForm1.Image1Click(Sender: TObject);
+begin
+
+end;
+
+{
 procedure TForm1.StringGridRotateTextOut(Grid: TStringGrid; ARow, ACol: Integer;
   Rect: TRect; Schriftart: string; Size: Integer; Color: TColor; Alignment: TAlignment);
 
