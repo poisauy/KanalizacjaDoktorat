@@ -54,6 +54,7 @@ type
     Label10: TLabel;
     GroupBox4: TGroupBox;
     Button14: TButton;
+    ProgressBar1: TProgressBar;
     procedure Button11Click(Sender: TObject);
     procedure Button13Click(Sender: TObject);
     procedure FormCreate(Sender: TObject);

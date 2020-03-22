@@ -1192,12 +1192,19 @@ object Form1: TForm1
     TabOrder = 6
     object Button14: TButton
       Left = 240
-      Top = 232
+      Top = 224
       Width = 185
       Height = 25
       Caption = 'Wykres'
       TabOrder = 0
       OnClick = Button14Click
+    end
+    object ProgressBar1: TProgressBar
+      Left = 56
+      Top = 272
+      Width = 513
+      Height = 17
+      TabOrder = 1
     end
   end
   object FDGUIxWaitCursor1: TFDGUIxWaitCursor
