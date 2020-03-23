@@ -60,6 +60,7 @@ type
     procedure FormCreate(Sender: TObject);
     procedure Image1Click(Sender: TObject);
     procedure Button14Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
   // procedure StringGridRotateTextOut(Grid: TStringGrid; ARow, ACol: Integer; Rect: TRect;
            //   Schriftart: string; Size: Integer; Color: TColor; Alignment: TAlignment);
   private
@@ -75,6 +76,8 @@ implementation
 
 {$R *.dfm}
 
+uses U_S_Grawitacyjna;
+
 procedure TForm1.Button11Click(Sender: TObject);
 begin
 Close;
@@ -88,6 +91,13 @@ end;
 procedure TForm1.Button14Click(Sender: TObject);
 begin
 // uruchomienie wykresu
+end;
+
+procedure TForm1.Button2Click(Sender: TObject);
+begin
+/////
+Form2.Show;
+
 end;
 
 procedure TForm1.FormCreate(Sender: TObject);

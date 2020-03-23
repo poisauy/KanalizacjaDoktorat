@@ -976,14 +976,14 @@ object Form1: TForm1
     Font.Name = 'Tahoma'
     Font.Style = []
     ParentFont = False
-    TabOrder = 0
+    TabOrder = 1
     object Button13: TButton
       Left = 184
       Top = 240
       Width = 257
       Height = 25
       Caption = 'Wczytanie modelu hierarchicznego'
-      TabOrder = 0
+      TabOrder = 1
       OnClick = Button13Click
     end
     object TreeView1: TTreeView
@@ -992,7 +992,7 @@ object Form1: TForm1
       Width = 561
       Height = 187
       Indent = 19
-      TabOrder = 1
+      TabOrder = 0
     end
   end
   object GroupBox2: TGroupBox
@@ -1007,7 +1007,7 @@ object Form1: TForm1
     Font.Name = 'Tahoma'
     Font.Style = []
     ParentFont = False
-    TabOrder = 1
+    TabOrder = 0
     object Button1: TButton
       Left = 160
       Top = 56
@@ -1023,6 +1023,7 @@ object Form1: TForm1
       Height = 25
       Caption = '1. Sie'#263' Grawitacyjna'
       TabOrder = 1
+      OnClick = Button2Click
     end
     object Button4: TButton
       Left = 72
@@ -1030,7 +1031,7 @@ object Form1: TForm1
       Width = 201
       Height = 25
       Caption = '2. Sie'#263' Ma'#322'o'#347'rednicowa'
-      TabOrder = 2
+      TabOrder = 3
     end
     object Button5: TButton
       Left = 72
@@ -1038,7 +1039,7 @@ object Form1: TForm1
       Width = 201
       Height = 25
       Caption = '3. Sie'#263' Podci'#347'nieniowa'
-      TabOrder = 3
+      TabOrder = 5
     end
     object Button6: TButton
       Left = 72
@@ -1046,7 +1047,7 @@ object Form1: TForm1
       Width = 201
       Height = 25
       Caption = '4. Sie'#263' Nadci'#347'nieniowa '
-      TabOrder = 4
+      TabOrder = 7
     end
     object Button9: TButton
       Left = 296
@@ -1054,7 +1055,7 @@ object Form1: TForm1
       Width = 201
       Height = 25
       Caption = 'Zbiorcze zestawienie danych'
-      TabOrder = 5
+      TabOrder = 8
     end
     object Button8: TButton
       Left = 296
@@ -1070,7 +1071,7 @@ object Form1: TForm1
       Width = 201
       Height = 25
       Caption = '6. Sie'#263' Mieszana'
-      TabOrder = 7
+      TabOrder = 4
     end
     object Button3: TButton
       Left = 296
@@ -1078,7 +1079,7 @@ object Form1: TForm1
       Width = 201
       Height = 25
       Caption = '5. Sie'#263' Wysokoci'#347'nieniowa '
-      TabOrder = 8
+      TabOrder = 2
     end
   end
   object GroupBox3: TGroupBox
@@ -1164,7 +1165,7 @@ object Form1: TForm1
     Width = 171
     Height = 25
     Caption = 'Opis systemu EASSES'
-    TabOrder = 3
+    TabOrder = 4
   end
   object Button11: TButton
     Left = 249
@@ -1172,7 +1173,7 @@ object Form1: TForm1
     Width = 111
     Height = 25
     Caption = 'Zamknij '
-    TabOrder = 4
+    TabOrder = 5
     OnClick = Button11Click
   end
   object Button12: TButton
@@ -1181,7 +1182,7 @@ object Form1: TForm1
     Width = 171
     Height = 25
     Caption = 'Wyb'#243'r kanalizacji - AHP'
-    TabOrder = 5
+    TabOrder = 6
   end
   object GroupBox4: TGroupBox
     Left = 620
@@ -1189,7 +1190,7 @@ object Form1: TForm1
     Width = 625
     Height = 306
     Caption = '4. Wykres Macierzy G'#322#243'wnej '
-    TabOrder = 6
+    TabOrder = 3
     object Button14: TButton
       Left = 240
       Top = 224
