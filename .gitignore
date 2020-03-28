@@ -69,3 +69,5 @@ __recovery/
 modules/
 Kod_Zrodlowy/PEASSES.res
 Kod_Zrodlowy/ProjectGroup1.groupproj
+cef_binary_80.0.8+gf96cd1d+chromium-80.0.3987.132_windows32/
+TestChromium/Win32/Debug/
