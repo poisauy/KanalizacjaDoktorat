@@ -39,12 +39,7 @@ type
     Button12: TButton;
     Button13: TButton;
     TreeView1: TTreeView;
-    FDGUIxWaitCursor1: TFDGUIxWaitCursor;
     DBGrid1: TDBGrid;
-    FDPhysODBCDriverLink1: TFDPhysODBCDriverLink;
-    FDConnection1: TFDConnection;
-    FDTable1: TFDTable;
-    DataSource1: TDataSource;
     Label4: TLabel;
     Label5: TLabel;
     Label6: TLabel;
@@ -55,6 +50,11 @@ type
     GroupBox4: TGroupBox;
     Button14: TButton;
     ProgressBar1: TProgressBar;
+    FDConnection1: TFDConnection;
+    FDGUIxWaitCursor1: TFDGUIxWaitCursor;
+    FDPhysODBCDriverLink1: TFDPhysODBCDriverLink;
+    FDTable1: TFDTable;
+    DataSource1: TDataSource;
     procedure Button11Click(Sender: TObject);
     procedure Button13Click(Sender: TObject);
     procedure FormCreate(Sender: TObject);

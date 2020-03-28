@@ -1,0 +1,6 @@
+Server: balarama.db.elephantsql.com (balarama-01)
+
+User & Default database: ztdtpxbs 
+Password: 	Gp0zdupjInYg_YZT_QuNgpoOJbk0Lin2
+URL postgres://ztdtpxbs:Gp0zdupjInYg_YZT_QuNgpoOJbk0Lin2@balarama.db.elephantsql.com:5432/ztdtpxbs
+API Key:        495986fc-f880-41c8-bd90-1bd4b175b572

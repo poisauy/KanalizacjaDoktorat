@@ -4,15 +4,21 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ComCtrls, Vcl.StdCtrls,
-  AdvPageControl;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ComCtrls, Vcl.StdCtrls;
 
 type
   TForm2 = class(TForm)
     GroupBox1: TGroupBox;
-    AdvPageControl1: TAdvPageControl;
     Button1: TButton;
     PageControl1: TPageControl;
+    ts1: TTabSheet;
+    ts2: TTabSheet;
+    ts3: TTabSheet;
+    ts4: TTabSheet;
+    ts5: TTabSheet;
+    ts6: TTabSheet;
+    ts7: TTabSheet;
+    ts8: TTabSheet;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }

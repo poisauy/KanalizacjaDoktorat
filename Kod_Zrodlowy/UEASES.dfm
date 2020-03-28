@@ -1208,37 +1208,37 @@ object Form1: TForm1
       TabOrder = 1
     end
   end
+  object FDConnection1: TFDConnection
+    Params.Strings = (
+      'Database=H:\Doktorat\KanalizacjaDoktorat\M_Glowna\AHP_MG.xls'
+      'DriverID=ODBC')
+    Connected = True
+    Left = 1028
+    Top = 262
+  end
   object FDGUIxWaitCursor1: TFDGUIxWaitCursor
     Provider = 'Forms'
-    Left = 956
-    Top = 236
+    Left = 1132
+    Top = 278
   end
   object FDPhysODBCDriverLink1: TFDPhysODBCDriverLink
     DriverID = 'ODBC'
     ODBCDriver = 'Driver do Microsoft Excel(*.xls)'
-    Left = 780
-    Top = 236
-  end
-  object FDConnection1: TFDConnection
-    Params.Strings = (
-      'Database=E:\Doktorat\KanalizacjaDoktorat\M_Glowna\AHP_MG.xls'
-      'DriverID=ODBC')
-    Connected = True
-    Left = 1068
-    Top = 236
+    Left = 900
+    Top = 286
   end
   object FDTable1: TFDTable
     Active = True
     Connection = FDConnection1
-    UpdateOptions.UpdateTableName = '`E:\Doktorat\KanalizacjaDoktorat\M_Glowna\AHP_MG`.Dane_MG'
-    CatalogName = 'E:\Doktorat\KanalizacjaDoktorat\M_Glowna'
-    TableName = '`E:\Doktorat\KanalizacjaDoktorat\M_Glowna\AHP_MG`.Dane_MG'
-    Left = 868
-    Top = 236
+    UpdateOptions.UpdateTableName = 'Dane_MG'
+    CatalogName = 'H:\Doktorat\KanalizacjaDoktorat\M_Glowna\AHP_MG'
+    TableName = 'Dane_MG'
+    Left = 1020
+    Top = 334
   end
   object DataSource1: TDataSource
     DataSet = FDTable1
-    Left = 708
-    Top = 236
+    Left = 796
+    Top = 246
   end
 end
